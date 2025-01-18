@@ -1,0 +1,1001 @@
+transaction_id,product_name,category,price,quantity,date,customer_name,customer_email
+1,Running Shoes,Sports,560.97,9,2024-03-10,Cameron Martin,akeller@yahoo.com
+2,Office Chair,Furniture,1371.39,7,2024-12-31,Joshua Ellis,riveranicholas@hotmail.com
+3,Tablet,Furniture,620.46,5,2024-06-22,Jessica Price,nathanhill@johnson-montes.com
+4,Headphones,Electronics,827.16,7,2024-01-30,,smithlawrence@gmail.com
+5,Gaming Laptop,Accessories,1663.99,7,2024-11-11,Melissa Snow,nicolenguyen@thompson.net
+6,Gaming Laptop,Accessories,700.67,10,2024-08-16,,melissaadams@rogers.org
+7,Tablet,Accessories,868.09,10,2024-11-05,Adam Hughes,ocarr@hotmail.com
+8,Wireless Mouse,Stationery,1053.81,7,2024-07-21,Brandon Hess,miranda35@contreras.org
+9,Gaming Laptop,Stationery,1891.53,9,2024-09-03,,vancerichard@gmail.com
+10,Wireless Mouse,Electronics,1547.25,4,2024-01-28,Elizabeth Cook,olyons@shelton-harvey.org
+11,Gaming Laptop,Appliances,1692.78,2,2024-09-14,Taylor Herman,novaktimothy@hotmail.com
+12,Gaming Laptop,Electronics,1940.82,8,2024-04-13,Rebecca Pratt,kristy84@maxwell-patel.com
+13,Gaming Laptop,Electronics,189.83,6,2024-05-21,Mr. Gary Sanchez,jennifer53@gmail.com
+14,Coffee Mug,Electronics,1950.2,9,2024-04-10,Richard Martin,aprilvazquez@gmail.com
+15,Headphones,Appliances,1821.67,10,2024-01-16,Dennis Archer,timothystewart@walker.net
+16,Backpack,Appliances,1338.36,8,2024-02-07,Daniel Johnson,rcarr@gmail.com
+17,Coffee Mug,Accessories,1332.11,10,2024-04-06,Lori Garcia,kathleen92@richards.com
+18,Running Shoes,Sports,846.25,6,2024-12-27,,jcarter@hotmail.com
+19,Notebook,Stationery,160.02,2,2024-05-28,Rebecca Gay,wolfebrenda@yahoo.com
+20,Coffee Mug,Furniture,344.14,1,2024-11-07,,patrick36@hotmail.com
+21,Running Shoes,Stationery,1775.9,10,2024-02-25,,johnsonbrian@gmail.com
+22,Running Shoes,Furniture,507.94,8,2024-03-16,Jennifer Sanchez,
+23,Gaming Laptop,Furniture,1721.83,5,2024-09-09,Daniel Thomas,martintara@villarreal.com
+24,Coffee Mug,Stationery,951.48,10,2024-01-22,Sara Osborne,hknox@hotmail.com
+25,Office Chair,Stationery,1714.83,7,2024-09-14,Robert Marquez,lisa59@long.com
+26,Office Chair,Stationery,1681.94,4,2024-06-18,Eric Stewart,michellebenitez@gmail.com
+27,Wireless Mouse,Accessories,632.82,6,2024-12-13,Lori Henson,gonzalezlisa@harding.com
+28,Running Shoes,Sports,62.11,1,2024-09-10,Leslie Gates,martinezalex@yahoo.com
+29,Headphones,Appliances,1093.71,9,2024-10-27,Richard Woods,
+30,Tablet,Electronics,1343.85,10,2024-08-26,Erica Norton,bmaynard@gmail.com
+31,Gaming Laptop,Accessories,560.36,1,2024-10-18,,taylorchad@hotmail.com
+32,Office Chair,Furniture,1914.0,1,2024-08-26,Gregory Coleman,becksusan@richardson-benson.org
+33,Running Shoes,Furniture,310.6,6,2024-11-12,Sheena Juarez,halerobert@gmail.com
+34,Wireless Mouse,Stationery,1442.12,5,2024-05-17,Michelle Harmon,shannon52@james.com
+35,Smartphone,Accessories,858.94,6,2024-05-13,Marie Moreno,rrasmussen@walton.com
+36,Coffee Mug,Furniture,1024.76,2,2024-02-28,Fred Nelson,sharonsummers@yahoo.com
+37,Backpack,Sports,1431.89,10,2025-01-02,Cody Miller,otaylor@walker.org
+38,Tablet,Accessories,557.92,7,2024-06-22,Michelle Campbell,fisherkaren@yahoo.com
+39,Gaming Laptop,Electronics,1171.61,4,2024-10-19,,brandonhart@yahoo.com
+40,Notebook,Furniture,83.26,4,2024-06-01,Megan Franco,greerbeth@gmail.com
+41,Notebook,Furniture,669.54,3,2024-10-15,Michael Best,robertmiller@bryant.com
+42,Headphones,Appliances,1430.01,4,2024-10-01,Jackie Oliver,zwilliams@erickson-chen.biz
+43,Office Chair,Sports,1159.38,10,2024-07-12,,
+44,Office Chair,Sports,1641.02,3,2024-10-11,,janemoore@peters-mosley.com
+45,Running Shoes,Stationery,1172.61,3,2024-10-23,Jacob Daniel,wellsmaria@palmer.com
+46,Headphones,Accessories,695.49,7,2024-10-19,Randy Miller,jtorres@yahoo.com
+47,Tablet,Accessories,721.86,10,2024-09-29,Andrea Hansen,cassidy45@hotmail.com
+48,Coffee Mug,Furniture,1346.06,3,2024-12-17,Carl Davis,cfreeman@vargas-andersen.com
+49,Notebook,Accessories,422.97,5,2024-04-19,,aaron64@dixon.biz
+50,Running Shoes,Accessories,362.26,9,2024-08-28,George Solis,pmorris@gmail.com
+51,Running Shoes,Accessories,1024.3,10,2024-06-03,Kristi Bennett,stephanie15@gonzales.com
+52,Headphones,Appliances,1803.48,10,2024-12-13,Michael Garcia,wruiz@martinez.biz
+53,Wireless Mouse,Appliances,1242.5,1,2024-12-07,Christine Bowman,pmiller@yahoo.com
+54,Smartphone,Accessories,571.31,1,2024-02-20,Zachary Nash,ujones@mckenzie.info
+55,Gaming Laptop,Sports,442.76,5,2024-12-30,Frank Lewis,
+56,Office Chair,Sports,710.35,2,2025-01-03,Elizabeth Pierce,meghan06@gmail.com
+57,Coffee Mug,Accessories,387.22,6,2024-06-10,Christopher Simon,tpowers@gmail.com
+58,Office Chair,Furniture,1754.9,9,2024-12-06,Matthew Jenkins,savannah05@mcgrath-clark.com
+59,Backpack,Appliances,970.16,5,2024-06-17,Elizabeth Miller,
+60,Gaming Laptop,Accessories,1997.12,9,2024-06-23,Bryan Barnes,laura55@yahoo.com
+61,Gaming Laptop,Electronics,1599.99,2,2024-11-18,Sean Marks,fernandezmatthew@gmail.com
+62,Coffee Mug,Accessories,234.83,1,2024-09-10,Mr. Christopher Hoffman DDS,wsanchez@hotmail.com
+63,Coffee Mug,Stationery,1838.36,9,2024-09-26,Mark Simmons,kimberly00@smith.org
+64,Backpack,Furniture,780.85,8,2024-07-23,Michele Morgan,
+65,Wireless Mouse,Electronics,1910.6,1,2024-08-14,Larry Moses,michael84@gmail.com
+66,Tablet,Accessories,1530.85,5,2024-12-12,Rebecca Roberson,
+67,Running Shoes,Furniture,676.36,7,2024-01-29,Eric Mendez,petersmorgan@gmail.com
+68,Backpack,Appliances,1555.85,5,2024-03-26,,
+69,Backpack,Stationery,1109.99,5,2024-04-22,Susan Myers,
+70,Gaming Laptop,Furniture,1944.54,9,2024-01-20,Mark Rivera,johnsmith@yahoo.com
+71,Smartphone,Stationery,1262.0,1,2024-11-07,Sarah Mckinney,
+72,Gaming Laptop,Furniture,583.92,7,2024-07-29,Sheila Adams,jacksondonald@jacobs-hopkins.com
+73,Running Shoes,Stationery,1852.41,4,2024-08-28,Matthew Thomas,
+74,Backpack,Accessories,1214.8,5,2024-07-01,Melissa Smith,brauntonya@gmail.com
+75,Notebook,Furniture,119.59,3,2024-02-28,Nicholas Taylor,patricia73@rojas.com
+76,Gaming Laptop,Appliances,242.89,10,2024-08-28,William Davis,alejandrohernandez@cook.com
+77,Backpack,Stationery,1150.52,1,2024-07-03,Anthony Jones,qgonzalez@hammond-hooper.org
+78,Backpack,Stationery,114.23,4,2024-05-27,Elizabeth Williams,kim68@gmail.com
+79,Running Shoes,Electronics,1563.95,7,2024-06-11,,desireestevens@hotmail.com
+80,Backpack,Appliances,766.95,7,2024-10-14,Sean Kemp,reneehumphrey@davis.com
+81,Coffee Mug,Sports,1629.38,3,2024-03-15,Heather Ray,owensjeanne@yahoo.com
+82,Coffee Mug,Accessories,1455.5,6,2024-04-05,Justin Mendoza,doyleariel@hutchinson-jackson.biz
+83,Wireless Mouse,Accessories,760.91,1,2024-09-05,Julia Sawyer,jasonweiss@gmail.com
+84,Tablet,Electronics,741.29,6,2024-01-04,Kathryn Taylor,fgarcia@turner.com
+85,Headphones,Electronics,1052.69,2,2024-11-11,Bryan Alexander,dwayne44@hotmail.com
+86,Wireless Mouse,Furniture,237.29,10,2024-04-17,Jeffrey Stephens,marywilson@hawkins.com
+87,Running Shoes,Accessories,41.16,9,2024-07-03,Christopher Soto,vblackwell@gmail.com
+88,Wireless Mouse,Appliances,1477.49,6,2024-07-09,Sierra Vargas,douglas63@yahoo.com
+89,Coffee Mug,Appliances,406.32,2,2024-09-18,Anne Glass,ibailey@deleon-pratt.biz
+90,Office Chair,Furniture,1153.88,9,2024-01-23,Cameron Carney,amber80@yahoo.com
+91,Running Shoes,Accessories,1965.17,9,2024-01-24,Martin Willis,qbryant@tran.com
+92,Backpack,Sports,1751.8,6,2024-06-12,Savannah Gilbert,
+93,Coffee Mug,Stationery,968.09,5,2024-02-08,Joseph Rivera,cbailey@yahoo.com
+94,Tablet,Sports,1549.06,3,2024-04-11,,robinsonbarry@ward-wang.org
+95,Backpack,Accessories,87.85,1,2024-11-08,Dylan Clark,kyates@guerrero-kennedy.info
+96,Tablet,Electronics,366.08,9,2024-10-18,,sydney59@yahoo.com
+97,Gaming Laptop,Furniture,1827.32,3,2024-01-23,Jeffrey Carrillo,angelamoore@gmail.com
+98,Gaming Laptop,Electronics,767.92,6,2024-11-15,Dr. Joshua Dunn,devinneal@yahoo.com
+99,Tablet,Sports,648.47,7,2024-03-09,Christopher Garner,morenolisa@rivera.com
+100,Headphones,Furniture,1325.95,7,2024-02-23,Amanda Johns,williamandrade@welch-brady.info
+101,Wireless Mouse,Furniture,1836.12,10,2024-09-08,Robert Parker,qortiz@mercer.com
+102,Wireless Mouse,Appliances,1723.0,10,2024-06-05,Alex Woods,courtney49@brown.biz
+103,Smartphone,Appliances,800.93,7,2024-11-08,Michael Velez,charles77@andrews-bowen.com
+104,Notebook,Electronics,1630.26,6,2024-01-18,Jose Stanton,wilsonhannah@dean-wilson.com
+105,Headphones,Accessories,1178.2,5,2024-12-27,Rachel Holmes,gloverkelly@hotmail.com
+106,Wireless Mouse,Appliances,1303.07,7,2024-11-15,Dr. Dylan Carter DDS,scott98@hotmail.com
+107,Running Shoes,Accessories,1164.93,7,2024-11-12,Richard Brown,lgarcia@summers.com
+108,Coffee Mug,Electronics,97.63,6,2024-01-22,Mary Ford,seth98@burke.com
+109,Notebook,Sports,763.08,5,2024-01-20,,cstevens@hotmail.com
+110,Smartphone,Accessories,818.09,1,2024-08-25,Michael Brown,william84@yahoo.com
+111,Notebook,Stationery,1179.04,4,2024-04-11,Kristy Colon,xgarcia@schwartz.info
+112,Coffee Mug,Accessories,1515.08,8,2024-10-09,Mark Fowler,qsmith@hotmail.com
+113,Wireless Mouse,Sports,28.36,8,2024-01-15,Brandon Edwards,
+114,Coffee Mug,Appliances,1301.23,5,2024-09-05,Donald Bailey,nheath@shelton-meza.com
+115,Smartphone,Sports,1086.78,1,2024-12-13,,jessica02@hotmail.com
+116,Smartphone,Accessories,927.13,8,2024-06-13,Timothy Moreno,collin05@jimenez.com
+117,Coffee Mug,Appliances,555.18,10,2024-09-07,Randy Williams,coryadams@christian-ingram.biz
+118,Backpack,Electronics,922.17,1,2024-04-28,Andrew Carter,jallison@brown-barker.com
+119,Running Shoes,Stationery,733.04,8,2024-10-09,Keith Bowers,tpena@gmail.com
+120,Office Chair,Sports,203.6,3,2024-06-27,Heather Wise,johnspence@sanchez.com
+121,Tablet,Furniture,839.83,7,2024-07-03,Courtney Martinez,kathleen50@kelley.com
+122,Backpack,Electronics,723.78,9,2024-08-20,Ashley White,amber17@barnett.com
+123,Tablet,Sports,1651.69,3,2024-09-16,,tdavis@hotmail.com
+124,Office Chair,Accessories,1468.93,7,2024-04-23,Madison Jenkins,jacquelinejohnson@patel-reilly.biz
+125,Smartphone,Furniture,1127.77,8,2024-11-20,Madison Mitchell MD,stevenking@gmail.com
+126,Smartphone,Stationery,747.98,2,2024-03-26,Christopher Sanford,leah03@yahoo.com
+127,Running Shoes,Appliances,82.51,3,2024-09-06,Tara Orr,jasonbailey@gmail.com
+128,Wireless Mouse,Electronics,1566.03,3,2024-06-24,William Cox,
+129,Notebook,Stationery,307.37,4,2024-12-19,George Smith,fwright@rogers.com
+130,Smartphone,Furniture,1674.96,4,2024-03-31,Ryan Cole PhD,
+131,Smartphone,Electronics,471.69,7,2024-07-09,,carrie64@gmail.com
+132,Backpack,Appliances,617.66,6,2024-03-12,Michael Klein,jessicacarroll@hawkins.biz
+133,Office Chair,Sports,915.99,5,2024-11-11,Brooke Sellers,
+134,Backpack,Sports,1379.64,2,2024-06-23,Donna Smith,kmcdowell@yahoo.com
+135,Backpack,Accessories,1516.74,9,2024-03-20,Nathaniel Larson,qrobinson@miller.com
+136,Running Shoes,Electronics,292.82,8,2024-07-21,Chris Stafford,fischerbrian@yahoo.com
+137,Wireless Mouse,Stationery,814.78,8,2024-02-15,Elizabeth Holland,davenportjanice@hotmail.com
+138,Gaming Laptop,Stationery,1533.94,9,2024-01-15,Mary Keller,sheltonchad@smith-white.com
+139,Smartphone,Electronics,48.54,3,2024-06-29,David Moore,joshuarodriguez@garrett-mitchell.org
+140,Running Shoes,Accessories,1131.02,2,2024-11-20,Molly Weiss,cnguyen@phelps.com
+141,Notebook,Electronics,761.39,5,2024-05-22,Nicholas Sanders,nallen@yahoo.com
+142,Wireless Mouse,Appliances,436.75,7,2024-08-02,Lauren Hernandez,johnsonjeanette@wagner.com
+143,Wireless Mouse,Sports,1327.97,8,2024-02-13,Raymond Bradford Jr.,william80@bradshaw-evans.info
+144,Wireless Mouse,Accessories,1351.23,6,2024-01-13,Sarah Miller,jamespearson@miller.com
+145,Headphones,Electronics,1340.96,9,2024-12-01,Joshua Golden,martin87@rush-riley.com
+146,Backpack,Stationery,125.01,4,2024-09-23,Thomas Turner,lhawkins@montes.net
+147,Headphones,Stationery,889.92,5,2024-03-31,Patricia Franklin,natalietucker@hotmail.com
+148,Wireless Mouse,Electronics,1884.13,1,2024-06-30,,
+149,Coffee Mug,Stationery,1132.47,1,2024-06-14,Lauren Whitehead DDS,toni80@gmail.com
+150,Tablet,Sports,53.74,5,2024-02-18,Brenda Wise,eedwards@allison-smith.com
+151,Coffee Mug,Furniture,1105.79,2,2024-04-22,David Phillips,
+152,Tablet,Accessories,533.61,7,2024-11-09,,greermark@lamb.net
+153,Coffee Mug,Accessories,461.1,3,2024-02-17,Kyle Wells,matthew00@gmail.com
+154,Running Shoes,Furniture,572.8,1,2024-10-07,Samuel Gardner,hlogan@yahoo.com
+155,Backpack,Appliances,1498.23,8,2024-12-24,Russell Rivera,npoole@hunter-williams.com
+156,Wireless Mouse,Appliances,1643.89,2,2024-02-12,Richard Middleton,kmaldonado@decker.com
+157,Running Shoes,Stationery,62.22,10,2024-10-25,Maria Ballard,josephjohnson@gmail.com
+158,Backpack,Electronics,294.45,8,2024-05-02,,zjones@hotmail.com
+159,Wireless Mouse,Sports,1539.49,10,2024-09-01,Rebecca Thomas,mitchellfrank@anderson.org
+160,Coffee Mug,Stationery,1734.25,2,2024-11-01,,vwilson@shaw-reynolds.biz
+161,Backpack,Furniture,731.35,8,2024-11-24,Jennifer Martin,taylorjoseph@wilson.biz
+162,Notebook,Sports,672.93,2,2024-01-16,Michael Adams,mccormickmichelle@fitzgerald.info
+163,Gaming Laptop,Electronics,1517.83,4,2024-05-05,David Hill,huntjodi@james.com
+164,Running Shoes,Appliances,415.14,5,2024-07-08,Michelle Martin,katherine87@hotmail.com
+165,Wireless Mouse,Sports,975.77,2,2024-08-12,Heather Black,arthurwood@gmail.com
+166,Headphones,Furniture,210.37,9,2024-10-26,Erika Burns,norrissheila@gmail.com
+167,Coffee Mug,Sports,1927.98,2,2024-06-02,Dominique Henderson,wmorris@nichols.com
+168,Coffee Mug,Sports,20.3,5,2024-10-12,Larry Tyler,matthewhiggins@yahoo.com
+169,Wireless Mouse,Electronics,1728.7,5,2024-10-08,Nancy Golden,lisa17@hotmail.com
+170,Notebook,Electronics,1558.58,8,2024-01-31,Cynthia Rose,amber01@anderson-roy.com
+171,Gaming Laptop,Electronics,28.94,7,2024-08-24,Emily Bishop,roberthernandez@gmail.com
+172,Coffee Mug,Electronics,1032.12,8,2024-11-17,,riveravictoria@rodriguez.biz
+173,Smartphone,Furniture,1883.27,4,2024-03-09,Darrell Oliver,bcooper@collier.com
+174,Backpack,Appliances,221.92,9,2024-02-03,Rhonda Brown,kimberlyjones@miller-richardson.net
+175,Gaming Laptop,Stationery,741.2,5,2024-05-31,Brittney Oneal,ortegalarry@hotmail.com
+176,Headphones,Sports,1954.29,9,2024-02-07,Adrian Garcia,daniel38@anderson.com
+177,Gaming Laptop,Sports,130.96,8,2024-05-21,Tommy Smith,christophermurphy@schneider-marshall.com
+178,Backpack,Appliances,38.04,7,2024-03-31,Heather Lopez,allenjasmine@yahoo.com
+179,Backpack,Electronics,322.37,3,2024-10-17,Aaron Martin,brandon81@hotmail.com
+180,Headphones,Accessories,1429.54,10,2024-11-17,James Patton,andersonrobert@gmail.com
+181,Wireless Mouse,Stationery,1893.14,9,2024-03-01,Joshua Morris,davidmarquez@walls.net
+182,Tablet,Accessories,1523.84,1,2024-05-14,,chad19@harrington.com
+183,Smartphone,Furniture,1371.02,3,2024-02-06,Danielle Pratt,kathy80@gmail.com
+184,Office Chair,Stationery,1196.03,9,2024-10-01,Kristopher Beasley,
+185,Running Shoes,Electronics,1216.49,1,2024-05-10,Nathan Fox,hfields@fisher.com
+186,Coffee Mug,Appliances,1200.81,3,2024-03-23,Joshua Sanchez,
+187,Notebook,Accessories,1515.53,6,2024-04-18,Barbara Barnes,velezjennifer@wallace.biz
+188,Coffee Mug,Sports,1425.59,1,2024-06-07,Scott Snow,alfred67@sims.com
+189,Gaming Laptop,Furniture,1958.61,2,2024-11-11,,tbartlett@yahoo.com
+190,Headphones,Electronics,310.41,6,2024-01-08,Mr. Anthony Harding MD,cathy22@waters-alvarez.com
+191,Running Shoes,Accessories,146.81,3,2024-05-22,Julie Sanchez,jhansen@yahoo.com
+192,Gaming Laptop,Sports,284.39,2,2024-09-20,Natalie Hanson DDS,vwaters@becker-ward.net
+193,Smartphone,Accessories,1782.32,6,2024-01-28,Elizabeth Woods,
+194,Coffee Mug,Electronics,1477.01,2,2024-10-24,Linda Hall MD,richardrussell@yahoo.com
+195,Tablet,Electronics,1594.99,5,2024-03-17,Raymond Lang,seanrodriguez@gmail.com
+196,Notebook,Appliances,782.6,1,2024-09-06,Cynthia Carter,amy71@yahoo.com
+197,Running Shoes,Accessories,606.29,3,2024-03-16,Crystal Arroyo,melissa81@andrews.com
+198,Notebook,Stationery,1034.34,8,2024-05-24,Pamela Johnston,jthomas@moore.com
+199,Wireless Mouse,Furniture,1865.56,7,2024-01-21,Dana Daniels,poncematthew@robinson.biz
+200,Coffee Mug,Furniture,514.48,2,2024-01-13,Abigail Dawson,nicoleprice@gmail.com
+201,Smartphone,Sports,692.2,1,2024-01-19,Jenna Lopez,
+202,Backpack,Appliances,1662.22,10,2024-06-21,Jessica Lindsey,larsonangela@davidson.com
+203,Wireless Mouse,Appliances,968.78,4,2024-02-11,Tiffany Hill,seanmedina@hoffman-martin.com
+204,Running Shoes,Furniture,562.44,1,2024-05-22,Kathryn Walsh,thomaswalker@hotmail.com
+205,Notebook,Sports,278.14,9,2024-05-26,Michelle Paul,
+206,Running Shoes,Stationery,179.71,6,2024-06-04,Misty Kelly,brittneycarter@yahoo.com
+207,Wireless Mouse,Accessories,1719.32,3,2024-10-20,Sally Robertson,sullivanroy@pace.org
+208,Running Shoes,Accessories,792.12,3,2024-04-27,Renee Valdez,harrismitchell@yahoo.com
+209,Running Shoes,Accessories,560.34,10,2024-04-01,Nathan Cantrell,swalker@gmail.com
+210,Smartphone,Stationery,1279.21,6,2024-06-16,Dawn Johnson,johnmurphy@stephenson-thompson.biz
+211,Headphones,Appliances,241.0,9,2024-10-05,Sherry Gallegos,umack@mack-hayes.biz
+212,Smartphone,Electronics,1082.75,7,2024-06-13,Randy Silva,lozanoaustin@dixon.org
+213,Tablet,Appliances,1620.41,5,2024-11-02,John Martinez,richardschultz@gutierrez.biz
+214,Office Chair,Appliances,59.26,10,2024-01-17,Margaret Garcia,colerobin@gmail.com
+215,Tablet,Electronics,1227.76,8,2024-10-03,Jennifer Henson,davidjackson@hotmail.com
+216,Coffee Mug,Electronics,475.86,5,2024-12-27,Deborah Harper,bennettshane@schroeder-cruz.com
+217,Backpack,Appliances,328.3,8,2024-03-15,Tara Knight,vmckinney@yahoo.com
+218,Running Shoes,Sports,1038.21,6,2024-01-22,Angela Davis,xcooper@campbell.biz
+219,Coffee Mug,Electronics,18.67,1,2024-11-14,Gregory Romero,morganmargaret@hotmail.com
+220,Running Shoes,Sports,1824.96,3,2024-09-02,John Holland,amber48@rogers-porter.biz
+221,Backpack,Stationery,234.35,5,2024-12-09,Sean Henderson,michael81@hotmail.com
+222,Tablet,Furniture,900.55,1,2024-10-27,Dr. Jennifer Peterson,george31@hotmail.com
+223,Running Shoes,Stationery,1769.99,9,2024-01-16,,heather66@gmail.com
+224,Wireless Mouse,Electronics,1924.98,6,2024-04-11,Paul Leblanc,williamwilliams@hotmail.com
+225,Tablet,Stationery,1290.22,7,2024-10-06,Blake Chang,dsilva@moore-jones.com
+226,Gaming Laptop,Accessories,50.89,5,2024-04-29,Rebecca Olson,scott50@sandoval.com
+227,Gaming Laptop,Sports,1481.39,6,2024-07-09,Matthew Cochran,dwallace@guzman-bates.com
+228,Wireless Mouse,Stationery,506.76,7,2024-09-14,Kristin Schultz,williamsemily@yahoo.com
+229,Tablet,Accessories,196.53,6,2024-06-21,Patrick Waters,stephaniefrederick@gmail.com
+230,Running Shoes,Appliances,413.4,9,2024-12-20,Carla Garza,acevedoheidi@yahoo.com
+231,Coffee Mug,Stationery,387.88,6,2024-03-16,Travis Burke,sherrymiller@yahoo.com
+232,Coffee Mug,Furniture,31.35,9,2024-08-20,,limelissa@johnson-jenkins.com
+233,Smartphone,Stationery,1202.97,10,2024-03-23,Steven Gomez,rodney52@gmail.com
+234,Coffee Mug,Stationery,1931.28,10,2024-03-28,,stevencastillo@hotmail.com
+235,Tablet,Appliances,528.56,5,2024-08-21,Peter Scott,martinezmichael@hotmail.com
+236,Running Shoes,Furniture,1411.38,7,2024-08-06,,joshuawallace@scott-matthews.net
+237,Smartphone,Stationery,691.18,6,2024-12-12,Ray Cooke,jose58@yahoo.com
+238,Headphones,Accessories,1906.41,1,2024-12-29,Isaac Reyes,crodriguez@lang.org
+239,Coffee Mug,Appliances,541.71,9,2024-08-25,Andrea Garcia,dixonjo@williams.com
+240,Backpack,Appliances,1562.42,4,2024-03-11,Javier Booth,sheri35@yahoo.com
+241,Smartphone,Electronics,252.14,5,2024-01-28,Theresa Torres,mooremelissa@gmail.com
+242,Tablet,Accessories,427.38,10,2024-12-16,Rachel Smith,bjones@yahoo.com
+243,Smartphone,Sports,1560.75,4,2024-12-22,Kevin Chavez,
+244,Backpack,Appliances,1905.07,4,2024-07-16,Jimmy Williams,ballison@cowan-baker.com
+245,Coffee Mug,Sports,1345.85,5,2024-01-20,Samantha Torres,patricksara@gmail.com
+246,Tablet,Stationery,134.04,2,2024-05-25,Jasmine Martin,andradetony@fisher.net
+247,Notebook,Accessories,794.9,4,2024-05-15,Elizabeth Fisher,lopezamy@yahoo.com
+248,Wireless Mouse,Electronics,1632.16,2,2024-04-04,Sean Gonzales,austinyang@lawson.org
+249,Headphones,Sports,1875.56,10,2024-07-02,Michael Mclaughlin,jennifergarcia@yahoo.com
+250,Notebook,Electronics,261.12,10,2024-04-26,Dr. Alexa Avila,sanchezjoanna@moore.info
+251,Tablet,Appliances,1608.59,9,2024-05-14,Jose Gates,joanwright@ayala.com
+252,Headphones,Electronics,743.34,7,2024-11-20,Stacey Schaefer,haydenchristina@yahoo.com
+253,Tablet,Accessories,188.59,6,2024-05-23,Frank Flores,sampsonmargaret@bolton.net
+254,Headphones,Electronics,1962.44,6,2024-02-29,David Hodges,diana17@yahoo.com
+255,Headphones,Electronics,407.24,10,2024-07-27,Dustin Johnson,fsmith@hotmail.com
+256,Running Shoes,Sports,1525.65,4,2024-07-30,Christine Garcia,justin36@yahoo.com
+257,Smartphone,Sports,682.52,1,2024-04-12,,alvarezbarbara@lopez.info
+258,Running Shoes,Stationery,1599.0,4,2024-04-16,Bonnie Brown,luisrobbins@yahoo.com
+259,Wireless Mouse,Appliances,1144.81,9,2024-09-09,Melissa Dawson,hutchinsonmatthew@yahoo.com
+260,Backpack,Sports,1705.02,2,2024-07-02,Corey Fisher,sarah30@brown.info
+261,Gaming Laptop,Appliances,1619.44,8,2024-10-03,Tricia Gray,brownderrick@torres-craig.com
+262,Office Chair,Sports,534.66,6,2024-09-23,Molly Lopez,burtondawn@moore.com
+263,Running Shoes,Furniture,262.53,5,2024-12-20,,hturner@hotmail.com
+264,Notebook,Accessories,754.52,2,2025-01-03,Kevin Price,garciajames@dyer.org
+265,Smartphone,Accessories,1130.82,4,2024-12-08,Taylor Wagner,zwilkins@gmail.com
+266,Office Chair,Electronics,784.79,8,2024-09-05,Richard Arnold,dduffy@hotmail.com
+267,Gaming Laptop,Furniture,925.29,6,2024-09-17,Robert Gonzalez DDS,alejandro92@costa.org
+268,Wireless Mouse,Electronics,1943.82,6,2024-11-25,Dana Morgan,tstevens@holt.com
+269,Notebook,Electronics,154.87,9,2024-05-20,Melanie Gonzalez,jerrytaylor@taylor.com
+270,Tablet,Furniture,1279.02,2,2024-01-08,Joseph Waters,
+271,Running Shoes,Stationery,1021.49,7,2024-10-18,Crystal Coleman,tarajones@gmail.com
+272,Backpack,Accessories,782.42,9,2024-07-27,,taylor51@hotmail.com
+273,Notebook,Sports,340.89,6,2024-12-30,,ana86@vance.com
+274,Gaming Laptop,Electronics,981.42,6,2024-04-16,Crystal Ross,jillcross@adams.info
+275,Office Chair,Electronics,934.55,10,2024-06-12,Vincent Dawson,kmiller@anderson.biz
+276,Coffee Mug,Electronics,1680.43,10,2024-03-15,,flowersdonna@hanson.info
+277,Running Shoes,Electronics,1293.5,2,2024-05-25,Joshua Kent,andrewssarah@hotmail.com
+278,Wireless Mouse,Sports,984.41,2,2024-11-18,Stacey Lewis,blackburnphilip@michael.com
+279,Running Shoes,Sports,1261.22,8,2024-05-12,Mrs. Jennifer Meadows,gturner@yahoo.com
+280,Headphones,Furniture,1645.77,3,2024-08-30,Henry Anderson,valerie49@smith.com
+281,Headphones,Electronics,1853.86,1,2025-01-03,Austin Rhodes,brownkelsey@yahoo.com
+282,Smartphone,Stationery,1624.01,8,2024-12-18,Wendy Crosby,ivance@hotmail.com
+283,Headphones,Electronics,1655.06,3,2024-07-17,Brandon Hamilton,ccolon@wong-campbell.biz
+284,Running Shoes,Electronics,811.91,3,2024-07-02,Brandy Johnson,kcortez@gmail.com
+285,Tablet,Accessories,1946.53,10,2024-02-17,Aaron Hart,bradbenitez@hotmail.com
+286,Gaming Laptop,Accessories,344.6,3,2024-03-04,Tina Rodriguez,manuel43@gmail.com
+287,Notebook,Accessories,424.56,7,2024-09-25,Shannon Jones,robertsvanessa@gmail.com
+288,Headphones,Accessories,1757.74,1,2024-10-05,Marcus Anderson,johnstonallen@yahoo.com
+289,Smartphone,Appliances,1135.36,9,2024-12-12,,michael26@yahoo.com
+290,Smartphone,Appliances,1325.77,10,2024-09-07,Dana Gonzalez,angelicapeterson@gmail.com
+291,Running Shoes,Furniture,1483.82,1,2024-05-28,Susan Jensen,
+292,Running Shoes,Furniture,961.72,9,2024-02-11,Lauren Johnson,kkelly@perez.com
+293,Wireless Mouse,Electronics,1455.01,2,2024-01-30,Robin Clark,shelby85@hotmail.com
+294,Gaming Laptop,Electronics,1563.53,8,2024-06-19,Maria Rosales,wthompson@dixon-hernandez.com
+295,Wireless Mouse,Appliances,993.95,7,2024-06-04,,bcoleman@hotmail.com
+296,Notebook,Furniture,1312.02,10,2024-03-27,Jasmin Flores,ksanchez@yahoo.com
+297,Running Shoes,Accessories,1804.17,1,2024-02-22,Sarah Barnes,debraray@michael-stark.com
+298,Tablet,Appliances,1715.35,10,2024-07-08,Jordan Terry,wesley34@gmail.com
+299,Headphones,Stationery,497.28,3,2024-08-09,Taylor Wise,kbrown@williams.com
+300,Running Shoes,Stationery,1053.62,7,2024-10-11,Justin Young,daniel16@james.com
+301,Coffee Mug,Stationery,1142.12,9,2024-01-14,Richard Wood,
+302,Backpack,Furniture,410.41,1,2024-07-02,Tracy Byrd,jillgood@yahoo.com
+303,Gaming Laptop,Sports,730.14,8,2024-05-14,Mathew Lopez,tbailey@gmail.com
+304,Backpack,Electronics,1896.8,9,2024-11-19,,ljones@hotmail.com
+305,Notebook,Stationery,387.02,1,2024-07-21,Kristina Brown,morrisonjason@gmail.com
+306,Gaming Laptop,Electronics,885.01,6,2024-09-03,Gregory Jacobs,orivas@yahoo.com
+307,Backpack,Sports,238.46,4,2024-02-29,Nicole Davis,caitlinalexander@yahoo.com
+308,Office Chair,Appliances,1354.97,2,2024-09-03,Matthew Woods,zelliott@myers.net
+309,Gaming Laptop,Sports,1227.61,10,2024-10-01,Dawn James,
+310,Notebook,Electronics,71.06,8,2024-11-27,Destiny Malone,travis23@yahoo.com
+311,Smartphone,Furniture,1604.05,8,2024-03-24,Edward Ramsey,pwarren@haynes.org
+312,Running Shoes,Sports,343.91,3,2024-02-18,Catherine Henson,paigeknox@yahoo.com
+313,Gaming Laptop,Furniture,897.94,3,2024-03-24,Michael Sanchez,ashleywarren@yahoo.com
+314,Headphones,Stationery,758.35,7,2024-05-14,Tracey Smith,heather44@wallace-gray.biz
+315,Backpack,Electronics,1367.96,9,2024-04-28,Angelica Harrison,yrowe@rivera-campbell.com
+316,Notebook,Furniture,84.12,7,2024-01-06,Cristian Dixon,wendy75@watson-stanley.biz
+317,Notebook,Electronics,1944.99,5,2024-12-14,Brian Vasquez,ashley60@bridges-hart.com
+318,Running Shoes,Furniture,1252.95,3,2024-06-22,Melissa Peterson,boonelisa@rodriguez.info
+319,Tablet,Stationery,88.05,8,2024-01-11,Tina Phillips,melissa35@rodriguez-hill.org
+320,Office Chair,Sports,1149.75,3,2024-06-14,Jennifer Rollins,randythomas@blackwell.net
+321,Headphones,Sports,1162.06,5,2024-03-23,Amanda Welch,jenniferthompson@peterson-jones.com
+322,Wireless Mouse,Electronics,1790.13,1,2024-02-29,Emily Ho,omartin@krueger.info
+323,Notebook,Furniture,1700.19,2,2024-11-18,Thomas Martinez,royalexis@porter.com
+324,Headphones,Stationery,10.57,6,2024-06-30,Barbara Bolton,uwilliams@williams.com
+325,Tablet,Stationery,1226.73,2,2024-12-17,Dylan Wood,martinezalexis@avila.com
+326,Headphones,Appliances,832.23,8,2024-08-14,Angela Cohen,angeldouglas@potts-hall.com
+327,Running Shoes,Furniture,1924.14,9,2024-09-08,Lisa Ramirez,
+328,Wireless Mouse,Accessories,629.25,9,2024-10-11,Courtney Foster,
+329,Office Chair,Accessories,55.35,7,2024-02-01,Rebecca Taylor,linda90@brown-moore.com
+330,Backpack,Electronics,309.75,2,2024-12-04,,hesterrichard@parker.info
+331,Tablet,Accessories,543.06,7,2024-01-26,Lisa Cunningham,
+332,Headphones,Furniture,346.55,5,2024-10-08,Dennis Carter,kari76@gmail.com
+333,Smartphone,Appliances,1077.52,6,2024-01-29,James Thompson,ethomas@daniel.com
+334,Coffee Mug,Electronics,264.01,2,2024-11-18,Susan Schmidt,kariellis@robinson.com
+335,Smartphone,Appliances,1983.04,6,2024-09-22,Greg Carr,thomasjames@gmail.com
+336,Coffee Mug,Furniture,1916.1,8,2024-09-08,Justin Harris,
+337,Notebook,Appliances,317.36,4,2024-10-22,Dr. Nathan Finley MD,evelyn25@hotmail.com
+338,Backpack,Electronics,1959.6,10,2024-09-11,,vangkatherine@richardson.com
+339,Wireless Mouse,Electronics,759.49,3,2024-12-27,Debbie Holmes,colederek@yahoo.com
+340,Notebook,Sports,1620.54,8,2024-09-18,Matthew Armstrong,rodriguezjason@yahoo.com
+341,Gaming Laptop,Sports,1279.85,2,2024-05-08,Jacob Hamilton,wagnermelissa@nguyen.com
+342,Backpack,Stationery,1429.78,8,2024-05-30,Lorraine Riddle,ncox@green.com
+343,Backpack,Stationery,744.6,9,2024-01-11,Colleen Stephens,karennelson@spencer-morris.com
+344,Headphones,Sports,842.47,2,2024-02-09,Jonathan Davila,zwolf@yahoo.com
+345,Running Shoes,Appliances,1839.53,10,2024-01-17,,leedavid@yahoo.com
+346,Coffee Mug,Appliances,1885.27,6,2025-01-03,Amanda Taylor,martinlisa@brown.info
+347,Office Chair,Sports,1802.84,6,2024-07-29,Patrick Liu,scott51@walker-bentley.com
+348,Tablet,Appliances,361.89,2,2024-02-19,Karen Walker,merceranthony@black-wright.biz
+349,Tablet,Electronics,1613.88,8,2024-11-04,Heather Cunningham,romanmark@hotmail.com
+350,Office Chair,Furniture,376.06,4,2024-05-24,David James,katie18@gmail.com
+351,Backpack,Appliances,13.43,1,2024-05-06,Amy Richmond,amber95@middleton-rios.com
+352,Running Shoes,Sports,585.14,9,2024-03-25,Stephanie Harmon,jacqueline69@carter.com
+353,Headphones,Stationery,1062.49,8,2024-07-15,,shermankaylee@yahoo.com
+354,Smartphone,Accessories,1228.22,5,2024-03-27,Mary Myers,smithsusan@gmail.com
+355,Office Chair,Stationery,978.03,4,2024-12-19,Robert Fox,lucasjennifer@hotmail.com
+356,Smartphone,Furniture,1901.15,9,2024-03-02,Erica Kent,erin07@gmail.com
+357,Tablet,Appliances,1688.5,7,2025-01-02,,crystal72@chapman-francis.com
+358,Tablet,Accessories,527.63,5,2024-10-04,David Brown,duanecalderon@gmail.com
+359,Wireless Mouse,Appliances,1691.51,3,2024-04-25,Colleen Wall,john44@nielsen.com
+360,Gaming Laptop,Furniture,1314.55,6,2024-11-17,Andrew Ortiz,james02@gmail.com
+361,Running Shoes,Stationery,956.15,6,2024-10-25,Holly Lane,inewman@sullivan.org
+362,Backpack,Furniture,777.61,9,2024-03-15,Rebecca Pearson,michael01@chung-gray.info
+363,Tablet,Appliances,348.56,7,2024-01-23,Courtney Brown,karina80@hotmail.com
+364,Gaming Laptop,Appliances,784.85,3,2024-03-23,Mary Burch,brownmichael@johnson-miller.com
+365,Tablet,Sports,1077.8,2,2024-07-15,Drew Larsen,cynthia27@carey-russell.com
+366,Office Chair,Sports,1506.99,4,2024-05-17,Melissa Coleman,wilkinsonwillie@olson.com
+367,Wireless Mouse,Stationery,1557.82,2,2024-07-15,Nathan Anderson,sjohnson@arnold-harris.com
+368,Headphones,Appliances,1198.54,3,2024-06-10,Jackson Cunningham,twallace@yahoo.com
+369,Office Chair,Electronics,636.88,2,2024-01-09,Mrs. Jacqueline Foley,nward@hotmail.com
+370,Coffee Mug,Accessories,1258.83,4,2024-12-23,Juan Carter,smithbrian@yahoo.com
+371,Smartphone,Appliances,862.75,2,2024-05-19,Andre Boone,jason95@jones-miller.com
+372,Office Chair,Appliances,933.17,4,2024-04-01,Kristin Carpenter,nrodgers@hotmail.com
+373,Coffee Mug,Accessories,1882.81,5,2024-06-09,Corey Brown,shawn09@jackson.com
+374,Headphones,Accessories,1605.5,3,2024-08-19,Darrell Fowler,
+375,Running Shoes,Sports,1291.63,10,2024-10-11,Dr. Linda Maynard,ramostiffany@hotmail.com
+376,Backpack,Accessories,750.76,5,2024-07-22,Valerie Rodriguez,jennifer15@contreras.info
+377,Notebook,Accessories,572.42,1,2024-04-28,Leonard Mckay,fjohnson@hotmail.com
+378,Tablet,Accessories,808.11,4,2024-09-03,John Landry,lewisconnor@hotmail.com
+379,Smartphone,Sports,732.9,4,2024-01-30,Kimberly Pacheco,hannahmiller@yahoo.com
+380,Wireless Mouse,Sports,341.88,9,2024-12-14,,scottmiranda@barnes.com
+381,Smartphone,Stationery,433.56,7,2024-01-22,,hesshannah@gmail.com
+382,Coffee Mug,Electronics,181.38,2,2024-11-16,Cody Wyatt,
+383,Smartphone,Appliances,490.74,6,2024-10-15,Lee Rodriguez,sarah09@griffith.com
+384,Notebook,Electronics,1720.42,5,2024-03-16,Jay Hanson,olsonlaura@yahoo.com
+385,Wireless Mouse,Electronics,106.54,5,2024-09-19,Jamie Melendez,robinmoore@hernandez-allen.biz
+386,Notebook,Furniture,462.38,10,2024-04-18,James Rodriguez,harringtonmichelle@rodriguez-reid.com
+387,Office Chair,Sports,444.42,1,2024-09-18,Isaac Barton,ldavis@salinas.biz
+388,Backpack,Stationery,205.34,9,2024-11-03,Nathan Mccann,autumn20@hotmail.com
+389,Office Chair,Furniture,1032.81,4,2024-02-10,Victoria Atkinson,ronald54@thompson.net
+390,Backpack,Stationery,1116.76,5,2024-08-03,Courtney Campbell,leeanna@gmail.com
+391,Gaming Laptop,Furniture,336.69,4,2024-05-17,Pamela Mason,josephschneider@holland.com
+392,Backpack,Furniture,1761.04,10,2024-02-05,Leon Li,andersonstephen@castro-hall.com
+393,Gaming Laptop,Sports,1953.08,2,2024-03-10,Natalie Jackson,mooremisty@pineda.info
+394,Office Chair,Furniture,1513.66,8,2024-10-01,Travis Marshall,floresmichelle@hotmail.com
+395,Running Shoes,Electronics,1184.63,1,2024-12-14,Maria Jefferson,mhunt@prince.com
+396,Coffee Mug,Stationery,418.11,7,2024-11-23,,riverajessica@yahoo.com
+397,Headphones,Appliances,937.53,5,2024-06-09,Kristi Black,
+398,Office Chair,Sports,660.47,10,2024-11-20,,susan26@kramer.com
+399,Wireless Mouse,Sports,171.48,7,2024-03-07,Colin Tyler,kyleanderson@flowers.net
+400,Tablet,Appliances,802.45,6,2024-03-01,Patricia Ward,scott91@hotmail.com
+401,Backpack,Electronics,19.16,5,2024-09-20,Janet Cohen,
+402,Headphones,Sports,1844.09,10,2024-11-24,Ryan Taylor,walkerjoseph@elliott.com
+403,Tablet,Electronics,1798.77,2,2024-11-23,Joshua Turner,richard45@curtis-potts.com
+404,Running Shoes,Accessories,193.9,5,2024-09-23,Daisy Johnston,dchen@rosario.biz
+405,Backpack,Accessories,589.94,6,2024-09-19,Cody Walker,davisdeanna@mcbride.com
+406,Coffee Mug,Furniture,805.19,5,2024-08-02,,millermelissa@mejia-gomez.net
+407,Wireless Mouse,Accessories,66.2,1,2024-12-28,Oscar Carr,wallacejames@yahoo.com
+408,Wireless Mouse,Sports,1260.21,9,2024-03-14,Douglas Ortiz,ygarza@hotmail.com
+409,Running Shoes,Stationery,1418.13,1,2024-01-17,Robin Green,richard72@king-wilson.com
+410,Backpack,Furniture,80.52,2,2024-03-14,Mrs. Kylie Herring DDS,alison52@ortiz-jefferson.net
+411,Office Chair,Accessories,1683.39,8,2024-04-30,Jennifer Gallagher,flynnkatie@hotmail.com
+412,Headphones,Furniture,475.27,8,2024-04-17,Steven Henry,
+413,Smartphone,Appliances,1437.08,1,2024-12-25,Edwin Mayer,richardreynolds@winters.net
+414,Notebook,Stationery,635.66,9,2024-09-25,Jason Miranda,piercejohn@briggs.com
+415,Backpack,Stationery,269.56,4,2024-09-04,John Butler,
+416,Wireless Mouse,Appliances,19.25,9,2024-10-26,Donna Hernandez,christopher85@yahoo.com
+417,Backpack,Furniture,1159.51,7,2024-09-07,Erik Hopkins,chanemily@gmail.com
+418,Backpack,Stationery,1876.65,8,2024-05-19,Judy Coffey,ricardo09@neal.net
+419,Backpack,Appliances,61.29,6,2024-01-23,,qvaldez@sutton.com
+420,Wireless Mouse,Stationery,65.23,4,2024-12-23,Robert Burgess,chelsea07@yahoo.com
+421,Coffee Mug,Furniture,1042.57,6,2024-11-09,Samantha Alvarez,shannonburns@ward.org
+422,Running Shoes,Stationery,1322.86,7,2024-11-12,Margaret Brooks,foxjennifer@gmail.com
+423,Gaming Laptop,Accessories,75.35,3,2024-11-20,Angela Chavez,brandon64@hotmail.com
+424,Backpack,Sports,1535.2,8,2024-03-11,Jason Porter,brownlaura@yahoo.com
+425,Smartphone,Furniture,1550.49,1,2024-06-07,Jessica Webster,michael99@hotmail.com
+426,Notebook,Accessories,1719.78,1,2024-12-22,,urosales@nelson.com
+427,Running Shoes,Appliances,213.59,4,2024-02-04,Denise Skinner,fjackson@parker.net
+428,Wireless Mouse,Furniture,1980.81,5,2024-03-30,,nicole58@yahoo.com
+429,Notebook,Stationery,1741.79,7,2024-06-08,Veronica Perez,dvega@hotmail.com
+430,Smartphone,Accessories,1692.37,9,2024-08-31,James Schultz,matthewtorres@morris-perez.com
+431,Coffee Mug,Accessories,1524.42,6,2024-02-14,Amy Sanchez,taylorsusan@padilla-velasquez.net
+432,Office Chair,Electronics,853.21,8,2024-05-23,Walter Marshall,khendrix@yahoo.com
+433,Backpack,Accessories,1479.46,10,2024-05-03,Joseph Williams,douglasrangel@yahoo.com
+434,Backpack,Accessories,1646.11,10,2024-02-20,Andre Hartman,kristenmccarty@roth-ruiz.com
+435,Office Chair,Sports,299.19,8,2024-07-21,Paul Faulkner,awilliams@osborne-flynn.net
+436,Wireless Mouse,Furniture,512.5,10,2024-12-28,Kelly Giles,xsmith@johnston-chavez.org
+437,Notebook,Furniture,990.06,7,2024-12-19,Ryan Rodriguez,melanie10@gmail.com
+438,Office Chair,Accessories,526.21,9,2024-02-10,Jill Mcmillan,gibsoncynthia@jackson.org
+439,Running Shoes,Sports,1659.53,2,2024-05-13,Christina Williams,annarogers@gmail.com
+440,Notebook,Sports,1179.54,6,2024-09-26,Kelly Acosta,molly55@yahoo.com
+441,Backpack,Sports,101.32,1,2024-08-08,Richard Hughes,james45@gmail.com
+442,Tablet,Furniture,567.0,5,2024-02-18,Jason Walker,donnacrawford@hotmail.com
+443,Gaming Laptop,Furniture,1695.94,2,2024-10-13,,garrettdavis@obrien-silva.info
+444,Headphones,Accessories,118.19,2,2024-04-25,Laura Middleton,barbara99@higgins.com
+445,Headphones,Appliances,1755.41,10,2024-01-09,Justin Walker,pattersongene@yahoo.com
+446,Running Shoes,Furniture,1019.86,2,2024-02-11,Abigail Tucker,ydavenport@parker.info
+447,Gaming Laptop,Stationery,74.55,10,2024-11-15,Taylor Stewart,simmonscharlene@scott.info
+448,Gaming Laptop,Appliances,1051.81,1,2024-01-20,Brandon English,jillian29@gmail.com
+449,Wireless Mouse,Accessories,486.42,10,2024-08-09,Barbara Clayton,christian47@gmail.com
+450,Backpack,Stationery,834.64,1,2024-11-23,Miranda Ramirez,tammykerr@yahoo.com
+451,Tablet,Stationery,877.5,2,2024-10-29,Rebecca Smith,zreese@little.com
+452,Gaming Laptop,Electronics,1152.71,2,2024-09-22,Andrew Koch,
+453,Running Shoes,Electronics,369.49,6,2024-01-09,Sean Hayes,jdelgado@guzman-benson.com
+454,Gaming Laptop,Sports,1821.3,10,2024-06-30,Stephanie Adams,cynthiahouse@sullivan.org
+455,Wireless Mouse,Stationery,1551.3,3,2024-02-19,Joseph Odonnell,zrivera@phillips-black.org
+456,Tablet,Sports,1676.22,10,2024-10-27,Joseph Walker,dfarley@ray.net
+457,Notebook,Stationery,274.57,10,2024-03-27,Kenneth Davis,murphychristian@yahoo.com
+458,Smartphone,Appliances,936.98,7,2024-12-25,Christina Le,christian75@davis.net
+459,Wireless Mouse,Stationery,1408.53,3,2024-12-17,Todd Lambert,arodriguez@rose.org
+460,Tablet,Accessories,1825.37,8,2024-07-02,Crystal Dennis,wholt@yahoo.com
+461,Gaming Laptop,Appliances,152.47,6,2024-10-18,Sheila Ward,
+462,Headphones,Accessories,805.41,8,2024-12-29,,fjenkins@garcia.com
+463,Gaming Laptop,Appliances,389.65,6,2024-02-18,,hugheskim@gmail.com
+464,Coffee Mug,Sports,1561.64,8,2024-01-24,Jasmin Walker,
+465,Notebook,Electronics,1725.09,9,2024-11-08,Charles Rojas,vhoward@cox-hunt.org
+466,Gaming Laptop,Furniture,95.1,6,2024-12-28,Pamela Curtis,melissapollard@gmail.com
+467,Running Shoes,Sports,1851.53,6,2024-05-01,Terry Hernandez,mtorres@flores.com
+468,Headphones,Accessories,1238.16,1,2024-02-25,Melissa Lopez,feliciapalmer@hernandez.com
+469,Headphones,Furniture,1869.26,2,2024-12-02,Jerry Bowers,derekfleming@hotmail.com
+470,Wireless Mouse,Sports,1754.02,6,2024-04-03,Sarah Becker,kdunn@hill.com
+471,Headphones,Stationery,18.56,5,2024-05-10,Mark Cole,marcusescobar@hotmail.com
+472,Gaming Laptop,Accessories,762.17,6,2024-01-12,Dominic Galloway,maria15@mcmillan-gibson.com
+473,Wireless Mouse,Furniture,1103.37,1,2024-11-17,Julie Marshall,thomas55@moyer.com
+474,Office Chair,Sports,929.16,8,2024-10-20,Jimmy Santos,suzannehayes@kelly.com
+475,Smartphone,Furniture,471.33,9,2024-04-03,Dr. Chad Foster,
+476,Backpack,Furniture,867.63,4,2024-12-07,Brandi Ramos,brownbrandon@gmail.com
+477,Running Shoes,Appliances,1531.41,7,2024-11-29,,zwashington@yahoo.com
+478,Notebook,Appliances,1786.45,5,2024-10-13,Dr. Bryan Potts,adamkramer@freeman.org
+479,Headphones,Appliances,609.54,1,2024-01-28,Deborah Villanueva,davidbowman@yahoo.com
+480,Backpack,Accessories,1773.55,6,2024-11-02,Amber Allen,kayla64@hotmail.com
+481,Smartphone,Sports,504.45,4,2024-05-25,Jacqueline Lopez,barbararaymond@hensley.com
+482,Headphones,Furniture,131.62,5,2024-03-22,,lcortez@hotmail.com
+483,Backpack,Appliances,1985.64,7,2024-10-03,,mandy67@lloyd-petty.biz
+484,Smartphone,Stationery,34.75,9,2024-03-27,,stephen99@hotmail.com
+485,Running Shoes,Sports,1119.45,5,2024-06-23,Ashley Collins,tberry@hotmail.com
+486,Tablet,Accessories,376.75,2,2024-07-11,Calvin Robinson,perezkenneth@gmail.com
+487,Office Chair,Appliances,403.21,6,2024-11-17,Ryan Ramirez,fbeard@cooper.biz
+488,Wireless Mouse,Appliances,602.57,4,2024-05-31,,
+489,Notebook,Accessories,335.51,7,2024-08-29,Joseph Singh,michele02@hotmail.com
+490,Gaming Laptop,Appliances,493.93,3,2024-12-24,Ronald Sanchez,kparker@hotmail.com
+491,Smartphone,Accessories,1691.07,1,2024-05-26,Katie Hernandez,donovanrichard@hotmail.com
+492,Running Shoes,Sports,553.87,6,2024-05-11,Ashley Wu,shane89@blanchard.biz
+493,Running Shoes,Sports,323.19,4,2024-07-01,Derek Castro,rreeves@brewer-collins.net
+494,Wireless Mouse,Accessories,889.84,3,2024-02-26,Alejandro Douglas,kristopherwest@blake-taylor.org
+495,Office Chair,Accessories,1086.61,1,2024-05-07,Jeremy Roy,gjames@hotmail.com
+496,Gaming Laptop,Appliances,817.24,7,2024-08-06,Edward Mitchell,mark97@gmail.com
+497,Headphones,Stationery,1170.86,3,2024-05-09,Brittney Hale,jonathanjames@yahoo.com
+498,Notebook,Stationery,1255.34,5,2024-10-29,Monica Dixon,jessecharles@yahoo.com
+499,Coffee Mug,Stationery,178.93,3,2024-05-11,Andrea Ward,christopher75@yahoo.com
+500,Tablet,Appliances,1347.17,4,2024-07-16,William Randall,john37@gmail.com
+501,Running Shoes,Stationery,990.93,5,2024-03-22,Jimmy Haney,
+502,Notebook,Appliances,1029.91,1,2024-09-23,,jessicamiller@caldwell.com
+503,Tablet,Appliances,1689.67,10,2024-01-14,Charles Cline,matthew19@hotmail.com
+504,Notebook,Furniture,951.6,6,2024-06-23,,isullivan@miller-sanford.com
+505,Notebook,Sports,897.56,8,2024-02-20,Erin Anderson,stephenmeadows@thomas.com
+506,Backpack,Appliances,834.17,9,2024-11-10,,nancyhunter@gomez.com
+507,Coffee Mug,Furniture,514.26,8,2024-07-01,Mrs. Michelle Hughes,robinsonandrew@hotmail.com
+508,Tablet,Stationery,134.48,7,2024-02-08,Claire Hodges,ppruitt@yahoo.com
+509,Wireless Mouse,Furniture,1002.46,9,2024-05-28,Tim Stephens,alicia37@gmail.com
+510,Tablet,Appliances,1590.77,2,2024-02-09,,joshua50@yahoo.com
+511,Wireless Mouse,Accessories,570.8,5,2024-03-10,Lydia Jones,jeffreyowens@nguyen.org
+512,Office Chair,Stationery,977.93,5,2024-05-22,Brittany Horton,sullivandean@smith.com
+513,Gaming Laptop,Electronics,855.84,1,2024-01-05,Madison Oconnell,tuckertammy@yahoo.com
+514,Gaming Laptop,Accessories,1192.94,2,2024-07-12,Samantha Robinson,juarezdavid@hotmail.com
+515,Wireless Mouse,Furniture,1589.29,6,2024-03-06,Jeremy Fletcher,ehampton@hotmail.com
+516,Notebook,Accessories,887.2,4,2024-03-24,Charlene Wagner,qchase@combs.com
+517,Gaming Laptop,Sports,324.49,4,2024-11-09,,
+518,Backpack,Furniture,1096.64,4,2024-04-08,Katie Mccarthy,davidsonkaren@stevens.org
+519,Headphones,Furniture,396.15,5,2024-04-27,Brittany Villarreal,crystal42@smith.net
+520,Notebook,Sports,796.24,10,2024-06-23,Ethan Miller,jaredmorgan@trujillo.biz
+521,Office Chair,Stationery,1007.27,3,2024-01-16,Melissa French,emason@miller-rodriguez.org
+522,Office Chair,Accessories,1311.81,4,2024-09-16,Angel Mahoney,jamesmorgan@yahoo.com
+523,Tablet,Electronics,1519.35,4,2024-02-03,Jasmin Hawkins,robertbrown@gmail.com
+524,Headphones,Furniture,355.44,10,2024-01-15,Mathew Simmons,kellymclaughlin@lewis.com
+525,Running Shoes,Sports,1805.86,8,2024-09-09,Juan Graham,
+526,Office Chair,Appliances,61.45,6,2024-12-10,Todd Conrad,charlesherrera@bruce.com
+527,Smartphone,Accessories,163.62,9,2024-01-07,Jillian Mccormick,marygriffith@cohen.com
+528,Backpack,Sports,739.19,1,2024-05-19,Adam Woodard,nward@simmons.com
+529,Coffee Mug,Accessories,913.02,1,2024-08-20,Gerald Bradshaw,ycampos@becker.net
+530,Tablet,Electronics,1839.45,2,2024-02-14,John Cooper,jordanjoshua@hendrix.com
+531,Notebook,Sports,692.8,4,2024-09-17,Chelsey Patel,meganmeyer@coleman.org
+532,Tablet,Appliances,1325.9,3,2024-11-24,Jennifer Foster,conniejohnson@smith.biz
+533,Wireless Mouse,Sports,684.45,1,2024-02-15,,stanleymeyer@deleon.com
+534,Notebook,Electronics,74.99,1,2024-02-16,Jonathan Leonard,matthew13@lopez.com
+535,Gaming Laptop,Appliances,958.97,9,2024-04-22,,
+536,Office Chair,Accessories,1954.48,7,2024-08-31,Megan Johnson,denisecox@flores-thompson.com
+537,Wireless Mouse,Furniture,1721.96,2,2024-08-13,Mallory Pratt,rivasryan@yahoo.com
+538,Coffee Mug,Appliances,428.26,2,2024-03-03,Michael Ryan,penaandrea@yahoo.com
+539,Coffee Mug,Furniture,1741.05,6,2024-05-02,Nichole Johnson,sarahholder@lynn.org
+540,Smartphone,Appliances,995.5,5,2024-11-15,,brandon78@yahoo.com
+541,Tablet,Sports,748.82,4,2024-12-20,Ryan Farmer,
+542,Office Chair,Furniture,42.92,3,2024-04-08,,matthew07@hotmail.com
+543,Notebook,Furniture,978.24,7,2024-03-05,Thomas Montoya,melissaluna@pittman.com
+544,Office Chair,Appliances,1673.21,1,2024-06-22,Jason Alvarez,patrick83@calhoun.info
+545,Smartphone,Furniture,1729.36,4,2024-09-16,,michael33@davis.com
+546,Headphones,Stationery,399.65,8,2024-01-21,,paigesellers@hotmail.com
+547,Office Chair,Stationery,1905.22,7,2024-07-26,Robert Andrade,jermaine49@smith-sanchez.org
+548,Smartphone,Accessories,783.66,4,2024-03-05,James Garza,yrodriguez@yahoo.com
+549,Running Shoes,Appliances,65.19,2,2024-09-23,Julie Singh,daniel92@gmail.com
+550,Backpack,Appliances,1030.05,5,2024-04-10,Calvin Kelly,fhenry@gmail.com
+551,Office Chair,Accessories,1267.83,6,2024-07-10,Deanna Hardin,michaelfranco@hotmail.com
+552,Notebook,Electronics,678.77,3,2024-11-08,Ashley Boone,lbennett@hotmail.com
+553,Coffee Mug,Stationery,26.48,6,2024-03-09,Tiffany Koch,
+554,Wireless Mouse,Stationery,1135.64,2,2024-03-17,Michael Walsh,johnwilson@yahoo.com
+555,Running Shoes,Stationery,850.08,5,2024-11-07,Donna Brown,
+556,Notebook,Accessories,347.28,6,2024-10-31,Chelsea Ramos,alexandrabenson@orozco-garrett.com
+557,Wireless Mouse,Appliances,1161.27,2,2024-01-06,David Avila,jacksonmelanie@gmail.com
+558,Tablet,Sports,1091.81,5,2024-03-29,John Mitchell,odavis@gmail.com
+559,Backpack,Furniture,1383.0,7,2024-08-28,Raymond Ewing,kharris@pope.com
+560,Running Shoes,Accessories,1778.76,10,2024-07-13,Michelle Baker,austin98@gmail.com
+561,Gaming Laptop,Accessories,824.81,4,2024-07-23,,jpalmer@yahoo.com
+562,Gaming Laptop,Appliances,142.61,3,2024-09-13,Carol Ramirez,donaldrodriguez@perry.biz
+563,Running Shoes,Electronics,36.22,6,2024-02-09,Brittney Whitaker,staffordpeter@garza-jones.org
+564,Office Chair,Furniture,234.93,6,2024-02-24,Erica Hayes,kyle65@yahoo.com
+565,Smartphone,Furniture,121.36,5,2024-12-17,Gabrielle Howell,jmiller@yahoo.com
+566,Office Chair,Sports,410.55,7,2024-03-27,,robertsonderek@smith.com
+567,Gaming Laptop,Furniture,680.87,3,2024-02-19,,monicatate@griffin.com
+568,Notebook,Furniture,1350.8,7,2024-06-09,,zpowell@gmail.com
+569,Running Shoes,Electronics,436.09,8,2024-09-03,Daniel Munoz,brett65@serrano.org
+570,Running Shoes,Appliances,1211.49,6,2024-02-17,Larry Brown,thomas92@simpson-kramer.info
+571,Office Chair,Stationery,1756.21,7,2024-05-12,Jessica Lewis,vanessa51@arnold-castillo.com
+572,Wireless Mouse,Accessories,883.5,2,2024-01-29,Lorraine Webb,ydunlap@garza.org
+573,Tablet,Sports,676.15,8,2024-05-06,,timothy28@yahoo.com
+574,Headphones,Furniture,581.51,1,2024-12-01,,
+575,Coffee Mug,Appliances,1069.75,7,2024-03-28,Steven Gilbert Jr.,stevengarcia@gmail.com
+576,Headphones,Appliances,512.09,4,2024-08-17,Kaitlyn Gardner,jacobboyd@hotmail.com
+577,Running Shoes,Furniture,1980.45,7,2024-02-11,Melissa Francis,jaredpierce@yahoo.com
+578,Office Chair,Sports,739.4,7,2024-12-01,Willie Brown,
+579,Wireless Mouse,Sports,290.32,10,2024-11-18,David Curry,salexander@gmail.com
+580,Notebook,Appliances,1377.74,9,2024-03-28,Dawn Beck,beth52@rogers-miller.info
+581,Headphones,Furniture,852.11,3,2024-09-08,Kelsey Warren,
+582,Headphones,Electronics,1397.76,8,2024-02-07,Mackenzie Rogers,donaldgray@hotmail.com
+583,Office Chair,Stationery,1094.11,8,2024-10-18,Jennifer King,newtonkimberly@hotmail.com
+584,Notebook,Sports,1624.87,1,2024-02-08,Douglas Rogers,hlang@weber.com
+585,Gaming Laptop,Sports,672.19,10,2024-11-11,Raymond Parker,ckennedy@ho.org
+586,Smartphone,Appliances,637.21,7,2024-07-02,Michael Decker,tbrown@yahoo.com
+587,Notebook,Furniture,1145.26,8,2024-03-20,Caitlin Thomas,woodardmichael@cameron.biz
+588,Wireless Mouse,Electronics,1489.44,3,2024-03-28,Alexis Bridges,bauermarissa@hotmail.com
+589,Tablet,Sports,718.19,7,2024-11-19,Krista Munoz,tracyvillegas@salinas.com
+590,Wireless Mouse,Electronics,29.65,7,2024-02-04,Leonard Mitchell,duncannicole@yahoo.com
+591,Wireless Mouse,Sports,292.37,9,2024-04-21,,
+592,Wireless Mouse,Stationery,462.17,2,2024-04-14,Alexis Shaw,julia91@walker.com
+593,Wireless Mouse,Stationery,238.86,3,2024-01-12,Laura Harper,michael62@yahoo.com
+594,Running Shoes,Sports,165.31,7,2024-06-29,Edward Becker,garzadaniel@hotmail.com
+595,Coffee Mug,Sports,1384.26,9,2024-02-15,Robert Simpson,
+596,Notebook,Appliances,1790.52,5,2024-07-04,Crystal Huber,rollinspatricia@yahoo.com
+597,Tablet,Stationery,1747.45,1,2024-06-12,Laurie Martin,cody58@gmail.com
+598,Gaming Laptop,Furniture,928.03,4,2024-04-03,Danielle Kelley,leonkimberly@proctor.com
+599,Wireless Mouse,Appliances,62.65,10,2024-02-03,,
+600,Backpack,Furniture,710.6,2,2024-06-01,Thomas Moore,
+601,Coffee Mug,Appliances,357.18,8,2024-09-30,Billy Dickson,michelerodriguez@hotmail.com
+602,Tablet,Stationery,757.0,5,2024-02-17,Carrie Kennedy,javierperez@johnson.com
+603,Headphones,Sports,54.19,10,2024-12-26,Samuel Scott,joycebeard@yahoo.com
+604,Notebook,Appliances,1673.41,4,2024-09-21,Adrian Mccarthy,jefferyfisher@cooke-cruz.biz
+605,Backpack,Electronics,757.64,6,2024-07-29,,griffindavid@gmail.com
+606,Notebook,Furniture,1444.06,8,2024-05-17,Elizabeth Lee,xhopkins@yahoo.com
+607,Running Shoes,Sports,469.99,10,2024-05-31,Shawn Reilly,markmorrison@davis.com
+608,Headphones,Appliances,1241.5,1,2024-11-15,Samuel Fox,xgould@yahoo.com
+609,Coffee Mug,Sports,921.5,1,2024-01-21,Joshua Rodriguez,sullivangregory@gmail.com
+610,Tablet,Furniture,1758.71,5,2024-03-26,Clinton Carlson,michael10@yahoo.com
+611,Running Shoes,Electronics,1184.47,4,2024-06-04,Eric Cole,mitchellgraham@gmail.com
+612,Tablet,Stationery,769.33,6,2024-06-07,Raymond Cruz,crystal06@roberts-hall.com
+613,Wireless Mouse,Electronics,1876.78,10,2024-03-28,William Craig,walkerpamela@mitchell.com
+614,Wireless Mouse,Sports,710.66,7,2024-12-17,Joseph Walsh,jasmine81@gmail.com
+615,Running Shoes,Sports,1687.37,7,2024-07-05,George Castillo,lloydlauren@hotmail.com
+616,Running Shoes,Stationery,99.53,4,2024-06-16,Joseph Perez,samantha68@yahoo.com
+617,Backpack,Electronics,568.87,6,2024-04-24,Danielle Lewis,rachel21@moody.com
+618,Gaming Laptop,Accessories,1599.12,9,2024-03-25,Angela Green,tmiller@yahoo.com
+619,Coffee Mug,Stationery,886.53,2,2024-12-09,James Avery,rserrano@gmail.com
+620,Gaming Laptop,Accessories,1115.0,7,2024-01-30,Carrie Gutierrez,
+621,Coffee Mug,Electronics,67.03,7,2024-05-29,Melanie Williams,gomezjessica@ho.com
+622,Smartphone,Electronics,1325.1,2,2024-03-10,Joseph Carroll,ebarker@gmail.com
+623,Running Shoes,Accessories,804.29,1,2024-12-04,Richard Potter,xparrish@yahoo.com
+624,Coffee Mug,Stationery,1505.3,8,2024-12-23,,
+625,Office Chair,Stationery,1510.15,4,2024-10-26,,pricejessica@solis-clark.com
+626,Notebook,Accessories,1302.41,9,2024-02-16,James Rogers,sheila43@ryan.com
+627,Coffee Mug,Stationery,1040.66,3,2024-10-02,,bedwards@schmidt.com
+628,Gaming Laptop,Sports,1286.92,1,2024-01-26,Keith Brown,david90@yahoo.com
+629,Backpack,Appliances,985.7,1,2024-02-19,Travis Baker,lancejones@barnes-montes.net
+630,Gaming Laptop,Sports,490.34,10,2024-03-06,Lauren Duncan,walkeranthony@gmail.com
+631,Headphones,Electronics,1247.64,10,2024-02-21,Amy Thompson,connie45@weeks-valentine.com
+632,Headphones,Stationery,571.77,7,2024-01-19,,
+633,Tablet,Sports,1852.43,10,2024-01-13,Marissa Weiss,oconley@yahoo.com
+634,Office Chair,Stationery,1478.24,3,2024-04-16,Lawrence Smith,drodriguez@yahoo.com
+635,Gaming Laptop,Sports,1967.62,2,2024-07-13,Danielle Murphy,brendanchapman@yahoo.com
+636,Wireless Mouse,Furniture,1307.3,2,2024-06-07,Brenda Kelly,qmartinez@mccormick.com
+637,Smartphone,Furniture,1769.84,3,2024-10-12,Travis Owen,tina98@yahoo.com
+638,Coffee Mug,Accessories,900.43,8,2024-01-09,Lindsay Dixon,mathewbridges@johnson.biz
+639,Office Chair,Stationery,1004.35,2,2024-05-21,Kayla Gutierrez,cmiller@gmail.com
+640,Office Chair,Stationery,284.44,10,2024-10-19,Donald Chapman,rivasisabella@rodgers.com
+641,Wireless Mouse,Sports,872.0,9,2024-09-29,Jonathan Olson,bclark@yahoo.com
+642,Tablet,Sports,412.74,8,2024-03-07,Jason Hill,maryjones@gmail.com
+643,Smartphone,Furniture,1815.68,3,2024-08-12,Kelly Dodson,nclark@henderson-griffin.org
+644,Smartphone,Electronics,1067.01,5,2024-07-23,Kevin Sanchez,aking@black.com
+645,Gaming Laptop,Furniture,1764.32,1,2024-05-03,Andrew Ewing,philipsanchez@gmail.com
+646,Headphones,Sports,728.27,10,2024-04-24,Miss Kara Davis,markking@scott.org
+647,Tablet,Stationery,1687.67,2,2024-10-18,Diane Casey,robertparks@cox.biz
+648,Gaming Laptop,Furniture,1620.05,4,2024-12-20,,jmorgan@thomas.com
+649,Gaming Laptop,Appliances,347.78,1,2024-04-18,,christopher71@henderson-kemp.com
+650,Wireless Mouse,Furniture,147.76,2,2024-05-29,David Gonzales,heatherwilson@hotmail.com
+651,Office Chair,Sports,442.82,9,2024-04-08,Lisa Ward,kennethclayton@yahoo.com
+652,Running Shoes,Appliances,867.48,4,2024-06-01,Daniel Cox,lopezjohn@cantrell.biz
+653,Notebook,Accessories,377.03,7,2024-06-15,Anita Chambers,william37@jackson.com
+654,Smartphone,Accessories,947.35,5,2024-04-20,Marcus Carroll,christopher14@gmail.com
+655,Office Chair,Stationery,1358.67,9,2024-01-09,David Mccullough,annecantu@gmail.com
+656,Coffee Mug,Appliances,1341.53,2,2024-06-16,Laura Simpson,meagan12@velez-welch.com
+657,Coffee Mug,Stationery,494.8,1,2024-06-10,Leslie Smith,acohen@hotmail.com
+658,Coffee Mug,Accessories,1310.35,4,2024-04-11,,angela51@hotmail.com
+659,Backpack,Appliances,1793.72,2,2024-12-07,Jill Pacheco,avelazquez@hotmail.com
+660,Smartphone,Stationery,544.61,5,2024-04-07,Haley Sutton,connor72@ortega-brock.com
+661,Notebook,Appliances,759.68,6,2024-11-03,Susan Wilson,kevin05@barnes-freeman.com
+662,Notebook,Accessories,660.94,6,2024-10-31,Rebecca Davis,lfigueroa@gmail.com
+663,Office Chair,Accessories,1558.35,5,2024-06-02,Gabriel Burton,
+664,Wireless Mouse,Appliances,1435.93,5,2024-02-15,Gina Spears,
+665,Gaming Laptop,Sports,545.27,5,2024-05-19,Douglas Nolan,jillrose@smith-jackson.biz
+666,Wireless Mouse,Sports,88.67,4,2024-07-08,Sandra Chavez,pwalters@horton.info
+667,Gaming Laptop,Furniture,1335.95,3,2024-09-30,Sean Wyatt,susan57@smith.com
+668,Tablet,Furniture,1460.28,2,2024-05-20,Alexa Wallace,danielrussell@nelson.net
+669,Running Shoes,Stationery,373.76,7,2024-04-21,Megan Cobb,smithmonica@gmail.com
+670,Smartphone,Stationery,709.79,8,2024-02-26,,nmyers@robinson.info
+671,Wireless Mouse,Furniture,341.7,3,2024-04-11,Elizabeth Huff,annaoconnor@wilson-taylor.com
+672,Running Shoes,Furniture,593.27,3,2024-12-11,Kristen Rose,kennedyjonathon@tucker-powell.info
+673,Smartphone,Furniture,1303.68,7,2024-01-18,,emily21@yahoo.com
+674,Tablet,Accessories,19.48,5,2024-01-29,Jeanette Davis,fernandobaxter@gmail.com
+675,Smartphone,Accessories,1276.57,1,2024-10-23,Leonard Alexander,brianna31@smith.com
+676,Backpack,Appliances,1480.1,5,2024-03-22,Kelly Baker,julie33@salinas-wade.org
+677,Notebook,Furniture,1990.85,9,2024-03-10,Andrew Cole,
+678,Gaming Laptop,Stationery,933.3,1,2024-09-06,Devin Wilkins,stacy97@stephens.com
+679,Coffee Mug,Stationery,1972.7,5,2024-03-20,Meagan Jones,brownstephen@mcneil-hunt.com
+680,Backpack,Stationery,1438.25,1,2024-09-12,Michelle Baldwin,palmerjoseph@yahoo.com
+681,Wireless Mouse,Sports,221.68,2,2024-03-04,Theresa Moore,pamela60@young.com
+682,Wireless Mouse,Sports,1832.7,4,2024-08-27,Nichole Vazquez,ncooke@gmail.com
+683,Backpack,Sports,1378.92,2,2024-05-16,Brandon Young,ibaker@parks.com
+684,Headphones,Accessories,1958.47,3,2024-08-11,Jennifer Villegas,ramosamber@foster-strickland.org
+685,Office Chair,Electronics,635.75,1,2024-06-29,Terry Gonzalez,warrensmith@gibson-moore.org
+686,Gaming Laptop,Furniture,1226.47,2,2024-11-15,Nicholas Ramos,xdouglas@gmail.com
+687,Smartphone,Electronics,606.48,8,2024-04-01,Sheri Allen,brettstone@bond.com
+688,Running Shoes,Sports,1439.19,6,2024-03-26,Kelly Marshall,pamelaholloway@gmail.com
+689,Backpack,Sports,63.23,7,2024-06-30,Michael Terry,amanda70@hotmail.com
+690,Coffee Mug,Stationery,1434.83,3,2024-06-13,Marissa Baker,tammyhale@gmail.com
+691,Headphones,Sports,990.86,2,2024-12-30,James Cunningham,alexanderyates@jefferson-stokes.org
+692,Tablet,Sports,1951.18,9,2024-10-24,Juan Cross,pbaker@powers.net
+693,Backpack,Appliances,161.09,9,2024-10-11,,jessicajohnson@yahoo.com
+694,Tablet,Stationery,1348.38,2,2024-10-29,,browncheyenne@daniels.com
+695,Office Chair,Appliances,521.52,8,2024-12-09,Kelly Ward,acostachristine@gmail.com
+696,Gaming Laptop,Furniture,760.69,10,2024-03-31,Dennis Long,kimberlysmith@rodriguez.com
+697,Wireless Mouse,Stationery,555.76,7,2024-03-14,Matthew Harris,williamshaley@wright.com
+698,Coffee Mug,Electronics,1850.03,1,2024-02-15,Tiffany Vasquez,fernando13@gmail.com
+699,Notebook,Sports,1296.75,4,2024-10-10,Ronald Turner,jerry92@gmail.com
+700,Headphones,Furniture,23.76,10,2024-11-09,Adrian Mccarthy,louisphillips@hotmail.com
+701,Smartphone,Sports,1040.16,3,2024-02-15,Christopher Morgan,mccormickamy@hotmail.com
+702,Tablet,Furniture,802.85,6,2024-12-30,Charles Hunter,joseph44@bullock.biz
+703,Gaming Laptop,Stationery,462.05,9,2024-09-20,Eric Cross,brian47@gmail.com
+704,Office Chair,Furniture,222.29,6,2024-04-15,Joanna Perkins,eric01@williams.com
+705,Smartphone,Accessories,374.74,5,2024-11-24,Yolanda Reyes,lthomas@kelly.org
+706,Office Chair,Sports,881.54,8,2024-05-02,Jason Berger,lisa90@mata.com
+707,Notebook,Accessories,707.58,7,2024-02-25,,sandersashley@moore.com
+708,Gaming Laptop,Sports,1217.03,6,2024-06-08,Patrick Pollard,michealdixon@gmail.com
+709,Smartphone,Appliances,1422.99,2,2024-02-03,,mjuarez@horton.org
+710,Gaming Laptop,Accessories,1553.46,8,2024-06-06,Julie Owen,tortega@gmail.com
+711,Tablet,Furniture,1364.84,4,2024-07-15,Mark Walsh,spencerstacey@yahoo.com
+712,Backpack,Accessories,901.22,7,2024-02-11,Amanda Bauer,millerdebra@davis.org
+713,Office Chair,Stationery,186.66,10,2024-03-16,Melissa Villarreal,ajackson@yahoo.com
+714,Gaming Laptop,Furniture,1305.63,5,2024-02-03,Shelia Barrett,ybowman@yahoo.com
+715,Coffee Mug,Furniture,243.26,1,2024-03-28,Christopher Moore,matthewramos@hoffman-griffith.com
+716,Wireless Mouse,Sports,1058.39,5,2024-12-23,Heidi Wheeler,smurray@hotmail.com
+717,Tablet,Furniture,1224.15,8,2024-01-27,,bradjohnson@miller.com
+718,Backpack,Stationery,1210.58,3,2024-11-10,Hunter Farrell,henrychristine@yu-harrington.com
+719,Tablet,Sports,1511.64,5,2024-06-13,Michael Johnson,wzimmerman@bruce.com
+720,Gaming Laptop,Furniture,138.21,4,2024-03-28,Sandy Hull,autumn06@gmail.com
+721,Gaming Laptop,Electronics,584.96,1,2024-05-21,Julie Spears,emilyjones@moore.com
+722,Gaming Laptop,Electronics,679.61,6,2024-07-24,Nicole Mcgee,brownshawn@cooke.com
+723,Running Shoes,Stationery,1830.87,4,2024-05-14,,bowensara@hotmail.com
+724,Notebook,Accessories,275.93,4,2024-03-31,Diana Mathews,jdavid@gmail.com
+725,Tablet,Appliances,1064.37,4,2024-02-24,Kelsey Allison,farmerlisa@gmail.com
+726,Headphones,Electronics,1379.58,10,2024-01-27,Samantha Torres,ralphhoffman@smith.com
+727,Smartphone,Appliances,1832.19,10,2024-04-18,Lindsey Harris,turnergary@yoder.org
+728,Smartphone,Appliances,1792.08,5,2024-11-20,Gail Campbell,amber89@yahoo.com
+729,Notebook,Stationery,1533.26,7,2024-09-16,Nicholas Nichols,ramseyjennifer@yahoo.com
+730,Backpack,Furniture,725.99,1,2024-07-04,Meagan Flores,ysnyder@riley.org
+731,Coffee Mug,Accessories,805.02,9,2024-10-05,David Brady,richard87@gmail.com
+732,Wireless Mouse,Stationery,346.11,6,2024-06-29,Sarah Kidd,hinesbrian@brown-wall.com
+733,Coffee Mug,Stationery,909.17,10,2024-04-15,,mbrown@thomas.com
+734,Headphones,Stationery,611.0,8,2024-10-24,Mia Lee,mlewis@gmail.com
+735,Headphones,Sports,259.93,9,2024-02-25,Amy Wells,jesse18@kennedy-gray.org
+736,Notebook,Sports,1412.67,7,2024-08-25,Yolanda Mcdonald,
+737,Coffee Mug,Stationery,1074.73,3,2024-02-10,Matthew Quinn,hernandezlaura@beck.com
+738,Gaming Laptop,Electronics,224.85,9,2024-04-28,Cassidy Ferguson,
+739,Coffee Mug,Stationery,509.41,8,2024-07-04,Nicole Allen,sarah13@swanson.com
+740,Wireless Mouse,Furniture,880.62,2,2024-04-21,Justin Jones,smithveronica@meyers.info
+741,Gaming Laptop,Furniture,1161.45,4,2024-07-16,Jonathan Carr,zkidd@mckenzie.biz
+742,Tablet,Appliances,757.54,3,2024-08-06,Jessica Cox,jonathan25@hotmail.com
+743,Running Shoes,Stationery,1695.43,5,2024-02-15,Kyle Rodriguez,cheryl85@morrison.com
+744,Gaming Laptop,Electronics,1494.66,5,2024-01-16,,woodlisa@hotmail.com
+745,Coffee Mug,Appliances,1140.28,4,2024-09-01,Dustin Thompson,njones@gmail.com
+746,Office Chair,Furniture,1782.69,7,2024-09-06,Joshua Graham,tyler11@gmail.com
+747,Gaming Laptop,Appliances,1295.49,3,2024-02-03,April Hardin,vhernandez@sanders.com
+748,Gaming Laptop,Sports,1512.54,8,2024-07-12,Mark Elliott,seanjackson@gmail.com
+749,Smartphone,Stationery,85.93,1,2024-06-13,Yesenia Kramer,fmcclure@yahoo.com
+750,Gaming Laptop,Appliances,1471.42,6,2024-05-13,,
+751,Coffee Mug,Stationery,1078.08,8,2024-07-01,Matthew Sanchez,kriley@adams.com
+752,Backpack,Appliances,242.41,3,2024-10-11,Jordan Wright,andrewcortez@hotmail.com
+753,Backpack,Electronics,1010.93,1,2024-03-17,Kristin Morris,
+754,Wireless Mouse,Sports,1958.98,3,2024-04-19,Scott Hernandez,caitlin44@velazquez.biz
+755,Notebook,Electronics,1361.86,6,2024-08-15,Elizabeth Rodriguez,swilson@yahoo.com
+756,Headphones,Appliances,535.83,8,2024-09-30,Adrienne Murray DVM,kaylaroberson@gmail.com
+757,Backpack,Appliances,848.37,4,2024-01-12,Alexander Carter,jamesmorris@yahoo.com
+758,Smartphone,Sports,525.75,9,2024-04-26,Tiffany Shea,yporter@green.info
+759,Running Shoes,Furniture,919.58,8,2024-12-01,Susan Soto,martinbrenda@gmail.com
+760,Notebook,Sports,780.42,10,2024-07-04,Alec Adams,xwashington@hotmail.com
+761,Office Chair,Stationery,741.2,5,2024-12-16,Breanna Mcdonald,wanderson@smith.com
+762,Wireless Mouse,Furniture,1121.36,10,2024-05-23,Jonathan Crosby,rhonda11@arnold-maldonado.com
+763,Backpack,Electronics,612.28,4,2024-09-07,Kristina Hardy,fnorris@hotmail.com
+764,Backpack,Sports,708.47,4,2024-11-06,Jeremy Reynolds,ballardaaron@morris.net
+765,Headphones,Appliances,1548.23,1,2024-11-16,Daniel White,
+766,Tablet,Appliances,356.52,1,2024-02-27,Marc Smith,shannon03@hotmail.com
+767,Office Chair,Electronics,1379.43,8,2024-09-09,Lindsay Fields,hurstkyle@matthews.com
+768,Smartphone,Accessories,304.78,7,2024-02-08,Rebecca White,georgescott@beasley-caldwell.com
+769,Running Shoes,Appliances,433.5,7,2024-01-28,Mrs. Kristina Moran,erin23@kaiser.org
+770,Headphones,Sports,1005.48,7,2024-06-07,Janet Ruiz,tatemelinda@donovan-marshall.info
+771,Backpack,Sports,1175.95,3,2024-09-20,,millererin@yahoo.com
+772,Office Chair,Appliances,164.35,6,2024-02-01,Jason Diaz,tiffany75@andrews-leblanc.com
+773,Notebook,Accessories,400.98,7,2025-01-02,Alan Gutierrez,morenopamela@jimenez.net
+774,Wireless Mouse,Sports,1150.52,9,2024-06-24,David Wilson,edwardsmatthew@barrett.biz
+775,Smartphone,Accessories,1149.73,2,2024-06-06,Jaime Robinson,craigbryan@hotmail.com
+776,Tablet,Stationery,1518.79,4,2025-01-03,,amy39@watson-bryant.com
+777,Smartphone,Appliances,1221.37,10,2024-06-17,Lindsey Crawford,mooremichael@hotmail.com
+778,Smartphone,Accessories,546.5,5,2024-01-20,Michael Morgan,cardenasjennifer@walters.com
+779,Smartphone,Furniture,1383.11,9,2024-04-22,Audrey Smith,sherry10@lewis.com
+780,Wireless Mouse,Furniture,1461.82,1,2024-09-12,Nicole Roberson,lopezmary@coffey.com
+781,Coffee Mug,Accessories,1249.79,8,2024-04-10,Kelly Wilson,vkelley@stevens.com
+782,Tablet,Accessories,416.31,2,2024-06-16,Shelly Moore,lawrencelori@marshall.org
+783,Running Shoes,Sports,1140.42,6,2024-12-02,Nathan Foster,hparker@yahoo.com
+784,Coffee Mug,Furniture,1866.83,7,2024-06-25,Jimmy Jensen,sarahmartin@collins.com
+785,Gaming Laptop,Furniture,1504.45,6,2024-08-27,Dwayne Riddle,lambertjoseph@yahoo.com
+786,Wireless Mouse,Electronics,176.22,7,2024-03-17,Jessica Brooks,alisonryan@knight.net
+787,Notebook,Sports,1384.38,5,2024-06-20,Kevin Ross,lauren12@hotmail.com
+788,Smartphone,Accessories,279.25,9,2024-10-24,,
+789,Running Shoes,Electronics,882.86,10,2024-11-26,Brian Odonnell,patrick44@hotmail.com
+790,Tablet,Sports,562.07,8,2024-05-06,Roger Thompson,lisa63@gmail.com
+791,Running Shoes,Electronics,1254.54,10,2024-06-23,Rachel Gray,rebecca02@yahoo.com
+792,Coffee Mug,Sports,1484.97,7,2024-04-03,Candace Bradford MD,jasmine94@johnson.net
+793,Notebook,Appliances,1649.71,6,2024-01-06,Maria Reed,
+794,Wireless Mouse,Appliances,1409.46,1,2024-05-25,Kenneth Williams,
+795,Headphones,Accessories,1730.92,10,2024-02-04,Joshua Anderson,nathan54@hotmail.com
+796,Headphones,Appliances,293.64,10,2024-02-26,Katherine Conner,castromichael@hotmail.com
+797,Coffee Mug,Electronics,355.24,8,2024-06-26,Jenny Miller,brenda47@hotmail.com
+798,Notebook,Electronics,204.74,9,2024-02-28,Samantha Ford,douglas64@hotmail.com
+799,Notebook,Furniture,1973.49,3,2024-08-02,Jessica Schneider,
+800,Notebook,Accessories,562.87,2,2024-10-27,,feliciajimenez@gamble.com
+801,Backpack,Accessories,827.74,9,2024-09-19,Cynthia Reed,karen57@hotmail.com
+802,Office Chair,Appliances,1514.1,5,2024-01-18,Andrew Adams,fcarson@hess.com
+803,Smartphone,Appliances,1746.26,5,2024-08-16,Jared Wright,fordapril@yahoo.com
+804,Notebook,Stationery,1638.15,1,2024-02-14,Dan Campbell,zjackson@white.com
+805,Notebook,Sports,1772.45,4,2024-10-24,,bdaniels@guerrero-young.net
+806,Backpack,Electronics,1215.73,6,2024-02-10,Jennifer Russell,villanuevaaustin@hotmail.com
+807,Tablet,Electronics,403.85,8,2024-10-31,Jennifer Williams,jasontaylor@hotmail.com
+808,Office Chair,Stationery,1680.85,5,2024-06-07,,eric54@yahoo.com
+809,Notebook,Accessories,1489.86,8,2024-02-16,Scott Young,christopherrodriguez@gmail.com
+810,Coffee Mug,Appliances,804.31,10,2024-09-22,Kenneth Dunlap,christophernorton@sanchez.com
+811,Headphones,Stationery,1057.91,8,2024-12-04,Shawna Daniels,zgray@meadows.com
+812,Notebook,Appliances,1633.95,1,2024-04-25,Brenda Henderson,wreynolds@harris.net
+813,Wireless Mouse,Stationery,1470.11,7,2024-07-31,Eric Chang,lkerr@acosta.org
+814,Backpack,Accessories,759.69,10,2024-06-28,Kimberly Ho,cherylsmith@hotmail.com
+815,Backpack,Furniture,1050.91,8,2024-11-08,Heidi Murphy,mezacraig@gmail.com
+816,Tablet,Furniture,1010.69,8,2024-05-25,Alexander Richardson,harrisjames@brown-miller.biz
+817,Backpack,Stationery,1530.21,6,2024-09-08,Bradley Jones,jeffreyschwartz@hotmail.com
+818,Gaming Laptop,Electronics,665.64,9,2024-03-29,Jonathan Barnett,christineadams@gibson-mccoy.net
+819,Tablet,Electronics,532.33,7,2024-05-14,Laura Hoffman,andersonnatasha@roberson.org
+820,Running Shoes,Appliances,1154.0,6,2024-08-29,Nicole Davis,
+821,Smartphone,Stationery,1073.06,9,2024-04-13,Connor Rivera,xmercado@hotmail.com
+822,Backpack,Appliances,744.86,2,2024-12-21,David Jensen,dlee@miller.com
+823,Office Chair,Furniture,1400.68,10,2024-12-09,Matthew Rodriguez,juliamckinney@yahoo.com
+824,Tablet,Stationery,605.93,1,2024-10-05,Sandra Bishop,heatherrosario@conway.com
+825,Backpack,Sports,1267.31,10,2024-08-08,Tammy Patton,tiffany43@gmail.com
+826,Running Shoes,Stationery,39.77,4,2024-08-25,,duaneescobar@yahoo.com
+827,Gaming Laptop,Stationery,387.46,1,2024-12-22,Patrick Brown,brianna53@cox.com
+828,Notebook,Appliances,1077.76,2,2024-04-03,,brownthomas@marshall-woods.info
+829,Backpack,Electronics,1956.46,9,2024-07-19,Ricky Russell,michael43@miller.com
+830,Smartphone,Appliances,1267.69,7,2024-05-29,Angela Powell,ydavidson@yahoo.com
+831,Gaming Laptop,Accessories,227.96,8,2024-05-25,Ashley Reyes,sandrabrown@lara.biz
+832,Running Shoes,Furniture,1129.94,4,2024-08-04,Edgar Hunt,gschmidt@compton-rogers.com
+833,Running Shoes,Stationery,1164.67,2,2024-05-01,Donna Lee,hamiltonmelanie@gilmore.info
+834,Headphones,Stationery,255.15,8,2024-03-28,Dawn Newton,cheryl12@hotmail.com
+835,Headphones,Stationery,1532.16,7,2024-12-10,Thomas Davis,guerrerobenjamin@gmail.com
+836,Backpack,Stationery,507.24,10,2024-01-27,Kristina Carey,joshua90@gmail.com
+837,Office Chair,Accessories,1953.97,6,2024-07-26,Rose Gardner,martinashley@maldonado.biz
+838,Gaming Laptop,Sports,623.64,1,2024-09-06,Christopher Williamson,uhayes@king.com
+839,Running Shoes,Stationery,244.54,3,2024-06-12,Michelle Sherman,jean29@cisneros.com
+840,Coffee Mug,Sports,507.04,4,2024-04-18,Andrew Cooke,millerpatrick@gmail.com
+841,Backpack,Electronics,804.42,1,2024-03-15,Melissa Weiss,charleneowens@yahoo.com
+842,Office Chair,Accessories,1262.09,1,2024-04-17,Audrey Stephens,lisa31@moore.com
+843,Running Shoes,Stationery,781.4,2,2024-12-07,Brenda Cameron,joshuakane@irwin-garrett.com
+844,Running Shoes,Accessories,1128.21,2,2024-08-17,,johnholland@gmail.com
+845,Backpack,Electronics,36.43,1,2024-07-17,Linda Smith,kathrynpotter@yahoo.com
+846,Smartphone,Stationery,1716.27,2,2024-04-15,,michelle06@yahoo.com
+847,Backpack,Electronics,1413.97,10,2024-12-14,Shaun Wagner,martinmurphy@lewis.biz
+848,Notebook,Accessories,1950.98,3,2024-09-11,Anna Young,tannersharp@cunningham.info
+849,Office Chair,Furniture,1065.31,8,2024-08-07,,rhughes@yahoo.com
+850,Smartphone,Sports,444.25,9,2024-10-06,David Rogers Jr.,
+851,Gaming Laptop,Furniture,649.07,6,2024-01-14,Logan Joseph,
+852,Gaming Laptop,Electronics,1140.21,1,2024-12-02,Christopher Elliott,richardshepherd@yahoo.com
+853,Tablet,Accessories,1020.13,5,2024-04-16,,waltersjeffery@miller.info
+854,Coffee Mug,Stationery,1158.14,6,2024-03-21,Daniel Mcguire,xlopez@ward.com
+855,Wireless Mouse,Stationery,683.67,7,2024-09-02,Ricardo Bowers,ldickerson@jones.com
+856,Gaming Laptop,Appliances,904.44,10,2024-01-25,Micheal Roman,nealjoshua@alvarez.net
+857,Headphones,Accessories,1407.86,7,2024-06-10,Sabrina Arellano,
+858,Backpack,Furniture,1573.32,10,2024-11-21,,grahamtara@harris.org
+859,Headphones,Sports,1388.04,3,2024-06-17,,
+860,Smartphone,Sports,713.94,4,2024-06-18,Edwin Fisher,jennifer31@hardin-miller.com
+861,Office Chair,Electronics,1901.01,2,2024-07-24,Nicholas Koch,samantha94@ford-hart.com
+862,Office Chair,Accessories,316.1,3,2024-07-16,Kayla Navarro,aguilarlindsey@navarro.net
+863,Office Chair,Stationery,44.59,4,2024-04-20,,carlsonjoy@hotmail.com
+864,Office Chair,Accessories,618.94,3,2024-01-27,Rachel Marks,mrose@parker.org
+865,Tablet,Appliances,176.98,3,2024-12-22,Heather Myers,moorekenneth@charles.com
+866,Office Chair,Stationery,1344.67,8,2024-11-23,,robertsandrew@roberts-reyes.com
+867,Tablet,Furniture,1325.59,2,2024-12-13,Kerri Ferguson,ufoster@miller.net
+868,Headphones,Stationery,825.09,4,2024-06-07,Sean Smith,christy16@gomez.com
+869,Backpack,Sports,680.84,10,2024-03-15,,elliottpaige@roach.com
+870,Running Shoes,Accessories,259.03,8,2024-06-23,Tyler Harris,donna28@gmail.com
+871,Office Chair,Accessories,318.73,9,2024-12-03,Alicia Brandt,jeffreyjohnson@cisneros-vaughan.com
+872,Headphones,Appliances,531.56,4,2024-12-01,,kayla40@vasquez-robinson.biz
+873,Backpack,Electronics,224.84,10,2024-05-16,Kaylee Flores,gbenson@gmail.com
+874,Running Shoes,Accessories,41.21,8,2024-02-25,Tammy Johnston,albert99@palmer.com
+875,Gaming Laptop,Furniture,1724.09,10,2024-06-27,Christopher Fischer,dharrison@cox.com
+876,Backpack,Appliances,1805.19,3,2024-04-16,,michael87@brown-phillips.com
+877,Tablet,Furniture,396.96,6,2024-12-05,Julie Allison,rodriguezdavid@gmail.com
+878,Headphones,Appliances,1480.43,9,2024-03-09,Gina Rodriguez,jonathanreed@allen.net
+879,Running Shoes,Appliances,769.49,5,2024-04-08,Gregory White,leachbethany@gmail.com
+880,Smartphone,Appliances,1495.18,4,2024-09-28,Eric Smith,cmullen@walker.com
+881,Office Chair,Accessories,755.59,9,2024-09-05,Linda Livingston,dana96@gmail.com
+882,Smartphone,Electronics,1990.01,10,2024-10-07,Mary Rodriguez,
+883,Wireless Mouse,Accessories,1530.35,7,2024-11-06,Brian Christensen,austinwebster@hotmail.com
+884,Coffee Mug,Stationery,772.74,5,2024-06-04,,smithhenry@gmail.com
+885,Running Shoes,Stationery,655.76,1,2024-03-25,Mark Watkins,lindsay11@hotmail.com
+886,Wireless Mouse,Sports,1736.18,10,2024-02-01,Sarah Parker,qbrandt@hotmail.com
+887,Coffee Mug,Appliances,1089.86,1,2024-07-10,Sherri Yang,garciamark@sweeney.com
+888,Gaming Laptop,Stationery,1850.13,2,2024-03-07,Julie Glenn,evanskimberly@carter.com
+889,Backpack,Sports,1624.03,8,2024-04-08,Kathryn Hall,hebertdouglas@gmail.com
+890,Office Chair,Stationery,885.89,2,2024-05-23,Kimberly Robertson,christinastephens@hotmail.com
+891,Backpack,Furniture,1833.38,2,2024-11-14,John Meyers MD,diazmatthew@brewer.com
+892,Running Shoes,Appliances,1396.73,7,2024-03-29,David Tanner,ymiller@gmail.com
+893,Headphones,Stationery,478.51,4,2024-12-09,Tammy Porter,mvega@hotmail.com
+894,Gaming Laptop,Electronics,1112.89,3,2024-12-18,Alyssa Velasquez,vbarrera@vargas.com
+895,Notebook,Appliances,1347.52,9,2024-04-13,Nicole Marsh,zacharyhall@gmail.com
+896,Wireless Mouse,Sports,686.49,7,2024-08-05,Michael Fuller,danieldavis@gmail.com
+897,Wireless Mouse,Furniture,1392.64,2,2024-04-18,Christine Wright,gilmorejoshua@gmail.com
+898,Backpack,Appliances,195.37,1,2024-04-29,Angelica Clarke,christopherandrews@glass.com
+899,Coffee Mug,Appliances,1344.14,9,2024-05-26,Pamela Whitaker,nicholskelly@thomas-parsons.org
+900,Smartphone,Stationery,1941.74,6,2024-08-13,Becky Ramirez,kimholden@gmail.com
+901,Gaming Laptop,Furniture,820.95,4,2024-03-29,Linda Herrera,brooksbrittany@ross-bradshaw.net
+902,Tablet,Accessories,271.55,3,2024-07-18,Joseph Montgomery,bcole@hotmail.com
+903,Coffee Mug,Electronics,1842.55,7,2024-12-31,Victoria Johnson,ndixon@gmail.com
+904,Notebook,Furniture,150.7,10,2024-01-08,Kenneth Hill,lukereed@padilla-daniels.biz
+905,Gaming Laptop,Furniture,1509.6,1,2024-09-03,Hector Shaw,david93@taylor.com
+906,Smartphone,Appliances,1413.9,7,2024-05-28,Brent Taylor,jmeyers@hernandez.com
+907,Headphones,Electronics,1925.76,9,2024-09-26,Renee Mendez,jillmejia@spencer.info
+908,Notebook,Electronics,1912.37,3,2024-04-12,Devin Richardson,rileymiguel@yahoo.com
+909,Coffee Mug,Electronics,1975.3,4,2024-06-21,Robert Larson,
+910,Office Chair,Stationery,415.62,5,2024-03-07,Michelle Morales,gbailey@gmail.com
+911,Headphones,Stationery,1869.22,7,2024-06-26,Faith Rodriguez,kevinhamilton@cardenas.com
+912,Headphones,Accessories,1171.95,10,2024-08-31,Roy Mcfarland DVM,hooverdawn@yahoo.com
+913,Office Chair,Sports,1288.68,6,2024-11-08,Allen Nguyen,qgriffin@hotmail.com
+914,Notebook,Electronics,1369.51,4,2024-01-15,Lori Williams,
+915,Running Shoes,Appliances,1026.21,9,2024-11-28,Matthew Liu,georgebailey@poole-rogers.info
+916,Smartphone,Appliances,1631.02,8,2024-04-22,Benjamin Burgess,keithmckee@garrison.com
+917,Running Shoes,Stationery,1815.91,10,2024-11-21,Abigail Vasquez,cunninghamchristina@randolph.com
+918,Backpack,Accessories,782.75,7,2024-12-04,William Gomez,martintaylor@gmail.com
+919,Gaming Laptop,Accessories,401.36,8,2024-10-27,Rachel Morrison,marcuspowell@yahoo.com
+920,Gaming Laptop,Furniture,165.55,7,2024-10-29,Dr. Erin Perkins,zoevargas@cochran.net
+921,Notebook,Sports,10.64,4,2024-09-10,William Taylor,aaron02@medina.biz
+922,Tablet,Stationery,1349.43,7,2024-08-15,Paul Smith,jessica36@gmail.com
+923,Backpack,Sports,1032.66,5,2024-01-13,Matthew Foster,mary08@yahoo.com
+924,Coffee Mug,Furniture,770.17,9,2024-07-27,,wattskatrina@gmail.com
+925,Backpack,Electronics,567.88,9,2024-01-25,Steven Hamilton,hperez@gmail.com
+926,Gaming Laptop,Stationery,1253.29,8,2024-05-19,Tammy Robinson,angela85@ruiz.com
+927,Running Shoes,Accessories,748.29,7,2024-06-20,Megan Monroe DDS,derek02@johnson.com
+928,Notebook,Sports,1078.13,6,2024-08-16,David White,cole04@butler.com
+929,Tablet,Appliances,683.62,4,2024-01-15,,gshaw@morgan-hicks.com
+930,Gaming Laptop,Stationery,1976.04,10,2024-07-26,Samantha Hess,dennissylvia@olsen-williams.biz
+931,Gaming Laptop,Stationery,1824.31,6,2024-09-12,Gabriel Cooper,jasonhaas@johnson.biz
+932,Tablet,Appliances,1190.05,8,2024-02-12,Paul Johnson,mklein@hotmail.com
+933,Wireless Mouse,Accessories,1874.7,4,2024-10-27,Jessica Barrera,
+934,Office Chair,Stationery,912.52,5,2024-08-27,Michael Rasmussen,
+935,Headphones,Furniture,485.19,10,2024-08-14,Michael Wright,kstout@gmail.com
+936,Headphones,Furniture,1191.21,6,2024-04-11,Karen Davis,crobertson@yahoo.com
+937,Wireless Mouse,Appliances,157.07,6,2024-05-13,Lee Gross,gonzalezheather@hill-lewis.com
+938,Wireless Mouse,Stationery,1932.41,4,2024-08-10,James Carpenter,kirbymichael@hotmail.com
+939,Wireless Mouse,Accessories,1885.15,9,2024-08-25,,cmoore@larson.com
+940,Wireless Mouse,Appliances,1582.57,9,2024-09-04,Teresa Roach,tyler75@hotmail.com
+941,Notebook,Electronics,66.18,8,2024-05-21,Daniel Garcia MD,andrea97@reyes-gentry.com
+942,Coffee Mug,Furniture,790.43,10,2024-01-06,Robyn Stevenson,slawrence@gmail.com
+943,Tablet,Stationery,768.96,6,2024-10-16,Suzanne Gonzalez,ryanroman@castillo.com
+944,Headphones,Stationery,996.56,1,2024-03-23,Andrew Brown,ashley62@hayes.com
+945,Coffee Mug,Electronics,530.72,5,2024-11-10,Christina Vang,donnaschmitt@smith-davis.com
+946,Tablet,Accessories,161.49,2,2024-05-31,Victoria Flores,
+947,Gaming Laptop,Sports,1433.75,5,2024-03-13,Bridget Brown,lwilliams@gmail.com
+948,Coffee Mug,Sports,310.56,10,2024-07-11,,peggy84@boyer.com
+949,Coffee Mug,Furniture,491.73,5,2024-09-02,Susan Glover,vwhitaker@gmail.com
+950,Backpack,Appliances,1691.9,2,2024-11-04,Christopher Rodriguez,seanlucas@smith.com
+951,Coffee Mug,Sports,452.81,7,2024-09-06,,reyesamber@smith-jackson.com
+952,Backpack,Electronics,1103.3,4,2024-08-08,Norma Burke,lauren27@yahoo.com
+953,Headphones,Stationery,1879.75,3,2024-08-24,Dustin May,priceemily@gmail.com
+954,Smartphone,Sports,1399.1,8,2024-03-13,Mary Murray,wolfshawn@yahoo.com
+955,Running Shoes,Furniture,406.53,6,2024-03-14,Sara Soto,hannahmoore@hotmail.com
+956,Office Chair,Electronics,666.35,7,2024-03-06,,ryan55@gmail.com
+957,Running Shoes,Electronics,1871.97,8,2024-07-15,,elijahevans@gmail.com
+958,Tablet,Electronics,585.73,10,2024-09-11,Kristy White,williammathis@gmail.com
+959,Running Shoes,Appliances,1052.6,1,2024-09-26,Sharon Kennedy,vsoto@yahoo.com
+960,Notebook,Accessories,1087.69,2,2024-01-06,Mark Davis,monicagonzalez@hotmail.com
+961,Office Chair,Appliances,1761.37,2,2024-02-18,Danielle Cohen,michaelwhite@manning.info
+962,Tablet,Furniture,1966.71,4,2024-09-03,David Grant,dana87@smith.net
+963,Running Shoes,Furniture,204.22,10,2024-06-18,Mary Wright,valerieharper@gmail.com
+964,Gaming Laptop,Accessories,856.03,2,2024-03-07,Thomas Ward,dylan79@shepard-flores.biz
+965,Coffee Mug,Stationery,1126.51,3,2024-06-16,Carla Blake PhD,matthewstephens@yahoo.com
+966,Wireless Mouse,Accessories,701.68,3,2024-05-02,Andrew Anderson,tyrone96@gmail.com
+967,Wireless Mouse,Accessories,1370.34,9,2024-03-09,Earl Barr,woodsconnie@frey.com
+968,Backpack,Furniture,653.36,4,2024-02-15,,ambercasey@henderson-lewis.net
+969,Notebook,Accessories,369.08,6,2024-08-24,Tabitha Frazier,
+970,Headphones,Appliances,888.93,3,2024-12-21,Andrew Fox,michaeljennifer@hotmail.com
+971,Tablet,Sports,1093.64,8,2024-08-30,Peter Hughes,randallmoore@walker-norman.com
+972,Smartphone,Stationery,1866.49,3,2024-05-20,Susan Smith,aallison@gmail.com
+973,Coffee Mug,Furniture,304.35,4,2024-10-19,Rachel Davis,smallamy@jones.com
+974,Coffee Mug,Appliances,1240.19,7,2024-10-04,Tracy Edwards,connie94@wright.info
+975,Coffee Mug,Appliances,1391.86,8,2024-08-21,Kenneth Wiggins,brandi97@cole.net
+976,Backpack,Sports,1524.25,9,2024-06-22,Matthew Rojas,carlsonkimberly@ruiz.net
+977,Backpack,Electronics,1737.24,9,2024-04-13,John Decker,sholland@hotmail.com
+978,Headphones,Furniture,1362.29,6,2024-05-30,Fernando Gomez,lawrence45@mcintosh.com
+979,Office Chair,Stationery,1361.26,4,2024-09-21,Jeremy Prince,david65@smith.com
+980,Wireless Mouse,Furniture,1248.16,5,2024-05-04,Cindy Fuller,qsilva@gmail.com
+981,Wireless Mouse,Furniture,1389.63,4,2024-04-10,Gabriella Sutton,melissa41@hotmail.com
+982,Smartphone,Electronics,1573.31,9,2024-05-28,Cheyenne Hampton,jenkinsnatasha@hotmail.com
+983,Running Shoes,Appliances,82.64,1,2024-05-26,Bruce Wilson,smithmelissa@hotmail.com
+984,Office Chair,Stationery,1479.93,2,2024-05-21,,paul38@elliott-rodriguez.com
+985,Running Shoes,Furniture,402.55,2,2024-04-03,Ryan Christensen,wbrowning@holden-rivers.com
+986,Notebook,Accessories,1364.85,9,2024-05-11,Kelly Kelley,bakerjonathan@austin.org
+987,Headphones,Electronics,1079.53,1,2024-07-09,Lisa Stone,nhull@castro.com
+988,Gaming Laptop,Sports,1021.29,4,2024-12-13,Sharon Foster,john24@gmail.com
+989,Wireless Mouse,Electronics,267.72,3,2024-11-06,Brandon Williams,floresjason@gmail.com
+990,Coffee Mug,Sports,1220.83,6,2024-11-10,Meghan Davis,juanthompson@hotmail.com
+991,Backpack,Sports,1373.0,1,2024-07-09,,christophersanders@yahoo.com
+992,Backpack,Electronics,562.35,5,2024-04-04,Peter Benson,robinchapman@yahoo.com
+993,Running Shoes,Electronics,1443.88,3,2024-06-13,Melissa Williams,
+994,Gaming Laptop,Sports,914.12,4,2024-08-04,Thomas Hale,jonescourtney@gmail.com
+995,Notebook,Electronics,1436.27,3,2024-07-30,Andrea Roberts,jose73@yahoo.com
+996,Wireless Mouse,Accessories,278.77,10,2024-11-28,Kristi Rodriguez,colemark@stein-underwood.net
+997,Wireless Mouse,Accessories,814.81,4,2024-11-10,Andre Perry,
+998,Gaming Laptop,Electronics,106.48,9,2024-06-28,Howard Williams,onorton@yahoo.com
+999,Wireless Mouse,Stationery,1507.86,1,2024-12-10,Kimberly Aguilar,jennifer89@castro.com
+1000,Office Chair,Electronics,1751.03,8,2024-03-13,Mrs. Debra Garcia,xgarcia@yahoo.com

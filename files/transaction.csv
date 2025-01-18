@@ -1,0 +1,11 @@
+transaction_id,product_name,category,price,quantity,date,customer_name,customer_email
+1,Running Shoes,Sports,560.97,9,2024-03-10,Cameron Martin,akeller@yahoo.com
+2,Office Chair,Furniture,1371.39,7,2024-12-31,Joshua Ellis,riveranicholas@hotmail.com
+3,Tablet,Furniture,620.46,5,2024-06-22,Jessica Price,nathanhill@johnson-montes.com
+4,Headphones,Electronics,827.16,7,2024-01-30,,smithlawrence@gmail.com
+5,Gaming Laptop,Accessories,1663.99,7,2024-11-11,Melissa Snow,nicolenguyen@thompson.net
+6,Gaming Laptop,Accessories,700.67,10,2024-08-16,,melissaadams@rogers.org
+7,Tablet,Accessories,868.09,10,2024-11-05,Adam Hughes,ocarr@hotmail.com
+8,Wireless Mouse,Stationery,1053.81,7,2024-07-21,Brandon Hess,miranda35@contreras.org
+9,Gaming Laptop,Stationery,1891.53,9,2024-09-03,,vancerichard@gmail.com
+10,Wireless Mouse,Electronics,1547.25,4,2024-01-28,Elizabeth Cook,olyons@shelton-harvey.org

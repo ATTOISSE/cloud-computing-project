@@ -1,0 +1,7 @@
+google-cloud-storage
+pandas
+fsspec
+gcsfs
+notebook
+pyarrow
+google-cloud-bigquery

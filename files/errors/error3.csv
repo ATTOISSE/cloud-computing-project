@@ -1,0 +1,4 @@
+transaction_id,product_name,category,price,quantity,date,customer_name,customer_email
+1,Laptop,Electronics,899.99,2,2023-05-15,John Doe,john.doe@example.com
+2,Phone,Electronics,799.99,1,2023-06-10,Jane Doe,jane.doe@example.com
+3,Tablet,Electronics,399.99,4,2023-07-01,Mark Twain,mark.twain@example.com
