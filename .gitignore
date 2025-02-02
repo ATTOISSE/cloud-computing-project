@@ -2,3 +2,4 @@ env/
 scriptv2.ipynb
 script test.ipynb
 README.md
+.gitignore
