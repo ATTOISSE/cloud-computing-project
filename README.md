@@ -10,7 +10,7 @@ Ce projet permet d'automatiser le traitement des fichiers stockés dans un bucke
 - **Validation** : Vérification de la structure et du format des données.
 - **Nettoyage** : Traitement des valeurs manquantes et conversion des types.
 - **Stockage** : Sauvegarde des fichiers nettoyés et déplacement vers les dossiers `clean/`, `done/` ou `error/`.
-- **BigQuery** : (optionnel) Chargement des fichiers validés dans une table BigQuery.
+- **BigQuery** : Chargement des fichiers validés dans une table BigQuery.
 
 ---
 
