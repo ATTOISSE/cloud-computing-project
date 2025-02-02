@@ -49,4 +49,4 @@ Orchestre l'ensemble du processus en traitant tous les fichiers de `input/` en b
 
 Lancer le script avec :
 ```sh
-python script.py
+python app.py
